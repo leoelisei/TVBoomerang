@@ -1,5 +1,5 @@
 Key,Serie,Episode,Path,From_Sec,To_Sec,Duration,Pausa1,Pausa2,Played,EpisodesPerShow
-K0001,Donde esta Wally,01 Colmillo izquierdo,P:/TVBoomerang/Series/Donde esta Wally/01 Colmillo izquierdo.mp4,0,1380,1380,830,0,N,1
+K0001,Donde esta Wally,01 Colmillo izquierdo,P:/TVBoomerang/Series/Donde esta Wally/01 Colmillo izquierdo.mp4,0,1380,1380,830,0,Y,1
 K0002,Donde esta Wally,02 La reina verde del bosque,P:/TVBoomerang/Series/Donde esta Wally/02 La reina verde del bosque.mp4,0,1390,1390,556,917,N,1
 K0003,Donde esta Wally,03 Un mundo muy cruel,P:/TVBoomerang/Series/Donde esta Wally/03 Un mundo muy cruel.mp4,0,1386,1386,658,966,N,1
 K0004,Donde esta Wally,04 El gran juego de pelotas,P:/TVBoomerang/Series/Donde esta Wally/04 El gran juego de pelotas.mp4,0,1395,1395,586,998,N,1
@@ -26,7 +26,7 @@ K0024,El Autobus Magico,11 Semillas,P:/TVBoomerang/Series/El Autobus Magico/11 S
 K0025,El Autobus Magico,12 Las hormigas,P:/TVBoomerang/Series/El Autobus Magico/12 Las hormigas.mkv,0,1561,1561,479.594122,1134.044134,N,1
 K0026,El Autobus Magico,13 Meteorologia,P:/TVBoomerang/Series/El Autobus Magico/13 Meteorologia.mkv,0,1561,1561,505.177155,993.361067,N,1
 K0027,El Autobus Magico,14 Las islas,P:/TVBoomerang/Series/El Autobus Magico/14 Las islas.mkv,0,1554,1554,362.720025,951.593993,N,1
-K0028,El Autobus Magico,"15 Huesos, musculos y articulaciones","P:/TVBoomerang/Series/El Autobus Magico/15 Huesos, musculos y articulaciones.mkv",0,1555,1555,655.550065,1000.227147,N,1
+K0028,El Autobus Magico,"15 Huesos,musculos y articulaciones","P:/TVBoomerang/Series/El Autobus Magico/15 Huesos,musculos y articulaciones.mkv",0,1555,1555,655.550065,1000.227147
 K0029,El Autobus Magico,16 Mariposas,P:/TVBoomerang/Series/El Autobus Magico/16 Mariposas.mkv,0,1555,1555,555.096183,1016.78489,N,1
 K0030,El Autobus Magico,17 Dinosaurios,P:/TVBoomerang/Series/El Autobus Magico/17 Dinosaurios.mkv,0,1555,1555,615.326105,1068.841012,N,1
 K0031,El Autobus Magico,18 Ciclo del agua,P:/TVBoomerang/Series/El Autobus Magico/18 Ciclo del agua.mkv,0,1556,1556,503.401977,987.562057,N,1
@@ -44,7 +44,7 @@ K0042,El Autobus Magico,29 Estructuras-Inodoro,P:/TVBoomerang/Series/El Autobus 
 K0043,El Autobus Magico,30 Las abejas,P:/TVBoomerang/Series/El Autobus Magico/30 Las abejas.mkv,0,1556,1556,505.524931,1023.226739,N,1
 K0044,El Autobus Magico,31 La luz,P:/TVBoomerang/Series/El Autobus Magico/31 La luz.mkv,0,1556,1556,379.008148,1039.168525,N,1
 K0045,El Autobus Magico,32 Arqueologia,P:/TVBoomerang/Series/El Autobus Magico/32 Arqueologia.mkv,0,1556,1556,564.000408,976.116972,N,1
-K0046,El Autobus Magico,"33 Colores, haces de luz, reflejo y refraccion","P:/TVBoomerang/Series/El Autobus Magico/33 Colores, haces de luz, reflejo y refraccion.mkv",0,1555,1555,608.564046,1096.721106,N,1
+K0046,El Autobus Magico,"33 Colores,haces de luz,reflejo y refraccion","P:/TVBoomerang/Series/El Autobus Magico/33 Colores,haces de luz,reflejo y refraccion.mkv",0,1555,1555
 K0047,El Autobus Magico,34 Natacion,P:/TVBoomerang/Series/El Autobus Magico/34 Natacion.mkv,0,1556,1556,446.440047,957.525025,N,1
 K0048,El Autobus Magico,35 Ejercicio,P:/TVBoomerang/Series/El Autobus Magico/35 Ejercicio.mkv,0,1556,1556,582.390999,1017.14238,N,1
 K0049,El Autobus Magico,36 Reciclaje,P:/TVBoomerang/Series/El Autobus Magico/36 Reciclaje.mkv,0,1554,1554,430.256112,786.609069,N,1
@@ -211,15 +211,15 @@ K0209,El Laboratorio de Dexter,02 El Juego De Dexter - El Gran Tonina - La Asist
 K0210,El Laboratorio de Dexter,03 El Rival De Dexter - Simion - El viejo Dexter,P:/TVBoomerang/Series/El Laboratorio de Dexter/03 El Rival De Dexter - Simion - El viejo Dexter.mp4,0,1328,1328,399.23,853.23,N,1
 K0211,El Laboratorio de Dexter,04 Problema por duplicado - La Barbacoa Terrestre - Cambios,P:/TVBoomerang/Series/El Laboratorio de Dexter/04 Problema por duplicado - La Barbacoa Terrestre - Cambios.mp4,0,1236,1236,407.52,802.24,N,1
 K0212,El Laboratorio de Dexter,05 El Dinosaurio De Dexter - El Organillero - El Tonto De Dexter,P:/TVBoomerang/Series/El Laboratorio de Dexter/05 El Dinosaurio De Dexter - El Organillero - El Tonto De Dexter.mp4,0,1317,1317,437.1,848.22,N,1
-K0213,El Laboratorio de Dexter," 06 La Habitacion De Dee Dee - Huntor, El Cazador Galactico - La Hermana Mayor","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 06 La Habitacion De Dee Dee - Huntor, El Cazador Galactico - La Hermana Mayor.mp4",0,1313,1313,431.72,782.91,N,1
+K0213,El Laboratorio de Dexter," 06 La Habitacion De Dee Dee - Huntor,El Cazador Galactico - La Hermana Mayor","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 06 La Habitacion De Dee Dee - Huntor,El Cazador Galactico - La Hermana Mayor.mp4",0,1313,1313,431.72,782.91
 K0214,El Laboratorio de Dexter,07 Amigo Contra El Mal - Super Amigos En TV - Juego Concluido,P:/TVBoomerang/Series/El Laboratorio de Dexter/07 Amigo Contra El Mal - Super Amigos En TV - Juego Concluido.mp4,0,1336,1336,438.35,851.89,N,1
 K0215,El Laboratorio de Dexter,08 La Ninera - La Habitacion De Val Hallen - La Maquina De Los Suenos,P:/TVBoomerang/Series/El Laboratorio de Dexter/08 La Ninera - La Habitacion De Val Hallen - La Maquina De Los Suenos.mp4,0,1334,1334,438.23,849.72,N,1
 K0216,El Laboratorio de Dexter,09 Drama En La Casa De Munecas - La Novia De Giganton - El Gran Queso,P:/TVBoomerang/Series/El Laboratorio de Dexter/09 Drama En La Casa De Munecas - La Novia De Giganton - El Gran Queso.mp4,0,1325,1325,436.98,847.51,N,1
-K0217,El Laboratorio de Dexter," 10 Al Estilo De Dee Dee - Dime, Tio Sam - La Tribu De Las Chicas","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 10 Al Estilo De Dee Dee - Dime, Tio Sam - La Tribu De Las Chicas.mp4",0,1330,1330,437.81,848.43,N,1
+K0217,El Laboratorio de Dexter," 10 Al Estilo De Dee Dee - Dime,Tio Sam - La Tribu De Las Chicas","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 10 Al Estilo De Dee Dee - Dime,Tio Sam - La Tribu De Las Chicas.mp4",0,1330,1330,437.81,848.43
 K0218,El Laboratorio de Dexter,11 La Capsula Espacial - Ratman - La Deuda De Dexter,P:/TVBoomerang/Series/El Laboratorio de Dexter/11 La Capsula Espacial - Ratman - La Deuda De Dexter.mp4,0,1332,1332,434.73,847.72,N,1
 K0219,El Laboratorio de Dexter,12 El Rival De Dexter - La Abeja - El Cerebro,P:/TVBoomerang/Series/El Laboratorio de Dexter/12 El Rival De Dexter - La Abeja - El Cerebro.mp4,0,1333,1333,400.25,850.5,N,1
 K0220,El Laboratorio de Dexter,13 Dee Dee Inflable - La Alergia - Monstruos,P:/TVBoomerang/Series/El Laboratorio de Dexter/13 Dee Dee Inflable - La Alergia - Monstruos.mp4,0,1336,1336,437.35,850.02,N,1
-K0221,El Laboratorio de Dexter," 14 El Heroe Barbado - Quack, El Super Pato - Vida De Hormigas","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 14 El Heroe Barbado - Quack, El Super Pato - Vida De Hormigas.mp4",0,1334,1334,439.62,851.67,N,1
+K0221,El Laboratorio de Dexter," 14 El Heroe Barbado - Quack,El Super Pato - Vida De Hormigas","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 14 El Heroe Barbado - Quack,El Super Pato - Vida De Hormigas.mp4",0,1334,1334,439.62,851.67
 K0222,El Laboratorio de Dexter,15 Mama Y Jerry - Pizzas Chubby - Ese Loco Robot,P:/TVBoomerang/Series/El Laboratorio de Dexter/15 Mama Y Jerry - Pizzas Chubby - Ese Loco Robot.mp4,0,1339,1339,440.25,765.58,N,1
 K0223,El Laboratorio de Dexter,16 Calabozos Y Dragones - Brazo De Acero,P:/TVBoomerang/Series/El Laboratorio de Dexter/16 Calabozos Y Dragones - Brazo De Acero.mp4,0,1359,1359,655.83,0,N,1
 K0224,El Laboratorio de Dexter,17 Vegetales - El Amigo De Dee Dee - El Casco Del Tiempo,P:/TVBoomerang/Series/El Laboratorio de Dexter/17 Vegetales - El Amigo De Dee Dee - El Casco Del Tiempo.mp4,0,1330,1330,438.83,847.04,N,1
@@ -243,15 +243,15 @@ K0241,El Laboratorio de Dexter,34 El Espiritu Deportivo - Koosalagoopagoop - El 
 K0242,El Laboratorio de Dexter,35 El Cafe - La Cola De Dee Dee - Sin Energia,P:/TVBoomerang/Series/El Laboratorio de Dexter/35 El Cafe - La Cola De Dee Dee - Sin Energia.mp4,0,1334,1334,441.42,854.33,N,1
 K0243,El Laboratorio de Dexter,36 Dee Dee Mama - La Carcajada,P:/TVBoomerang/Series/El Laboratorio de Dexter/36 Dee Dee Mama - La Carcajada.mp4,0,1360,1360,580.67,923.21,N,1
 K0244,El Laboratorio de Dexter,37 El Perro De Dexter - Cupones De Locura - Todos Al Agua,P:/TVBoomerang/Series/El Laboratorio de Dexter/37 El Perro De Dexter - Cupones De Locura - Todos Al Agua.mp4,0,1364,1364,468.08,880.62,N,1
-K0245,El Laboratorio de Dexter," 38 Gases Toxicos - Salvemos Al Planeta, Idiota - Alumno Promedio","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 38 Gases Toxicos - Salvemos Al Planeta, Idiota - Alumno Promedio.mp4",0,1338,1338,379.96,712.17,N,1
+K0245,El Laboratorio de Dexter," 38 Gases Toxicos - Salvemos Al Planeta,Idiota - Alumno Promedio","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 38 Gases Toxicos - Salvemos Al Planeta,Idiota - Alumno Promedio.mp4",0,1338,1338,379.96,712.17
 K0246,El Laboratorio de Dexter,39 Lucha De Gigantes - Un Nino Y Su Polilla - Vegetales Carnivoros,P:/TVBoomerang/Series/El Laboratorio de Dexter/39 Lucha De Gigantes - Un Nino Y Su Polilla - Vegetales Carnivoros.mp4,0,1335,1335,439.67,855.58,N,1
-K0247,El Laboratorio de Dexter," 40 Ay, Mis Ojos - El Encanto De Dee Dee","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 40 Ay, Mis Ojos - El Encanto De Dee Dee.mp4",0,1334,1334,527.54,0,N,1
+K0247,El Laboratorio de Dexter," 40 Ay,Mis Ojos - El Encanto De Dee Dee","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 40 Ay,Mis Ojos - El Encanto De Dee Dee.mp4",0,1334,1334,527.54,0
 K0248,El Laboratorio de Dexter,41 Fuego - No Seas Un Heroe - Mi Marciana Favorita,P:/TVBoomerang/Series/El Laboratorio de Dexter/41 Fuego - No Seas Un Heroe - Mi Marciana Favorita.mp4,0,1345,1345,450.71,862.54,N,1
 K0249,El Laboratorio de Dexter,42 Repartidores Ninjas - Intercambio De Recamaras - La Casa Del Arbol,P:/TVBoomerang/Series/El Laboratorio de Dexter/42 Repartidores Ninjas - Intercambio De Recamaras - La Casa Del Arbol.mp4,0,1341,1341,440.12,853.33,N,1
 K0250,El Laboratorio de Dexter,43 Escandalo - Acentos Odiosos - Dia De Pesca,P:/TVBoomerang/Series/El Laboratorio de Dexter/43 Escandalo - Acentos Odiosos - Dia De Pesca.mp4,0,1344,1344,313.29,838.79,N,1
-K0251,El Laboratorio de Dexter," 44 Como Molestar A Papa - De La Moda, Lo Que Te Acomoda - Usando La Cabeza","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 44 Como Molestar A Papa - De La Moda, Lo Que Te Acomoda - Usando La Cabeza.mp4",0,1338,1338,439.5,853.83,N,1
+K0251,El Laboratorio de Dexter," 44 Como Molestar A Papa - De La Moda,Lo Que Te Acomoda - Usando La Cabeza","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 44 Como Molestar A Papa - De La Moda,Lo Que Te Acomoda - Usando La Cabeza.mp4",0,1338,1338,439.5,853.83
 K0252,El Laboratorio de Dexter,45 Focos - Cancion De Laboratorio Al Viejo Estilo - El Reparanoico,P:/TVBoomerang/Series/El Laboratorio de Dexter/45 Focos - Cancion De Laboratorio Al Viejo Estilo - El Reparanoico.mp4,0,1336,1336,438.29,852.38,N,1
-K0253,El Laboratorio de Dexter," 46 Reversa - Fuera Del Laboratorio - Sol, Surf Y Ciencia","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 46 Reversa - Fuera Del Laboratorio - Sol, Surf Y Ciencia.mp4",0,1339,1339,372.54,889.92,N,1
+K0253,El Laboratorio de Dexter," 46 Reversa - Fuera Del Laboratorio - Sol,Surf Y Ciencia","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 46 Reversa - Fuera Del Laboratorio - Sol,Surf Y Ciencia.mp4",0,1339,1339,372.54,889.92
 K0254,El Laboratorio de Dexter,47 Robots - Extraterrestres Que Controlan Tu Mente - Perdido En El Espacio,P:/TVBoomerang/Series/El Laboratorio de Dexter/47 Robots - Extraterrestres Que Controlan Tu Mente - Perdido En El Espacio.mp4,0,1353,1353,426.5,842.58,N,1
 K0255,El Laboratorio de Dexter,48 La Rival De Dee Dee - Psicosis Ligera - Juegos,P:/TVBoomerang/Series/El Laboratorio de Dexter/48 La Rival De Dee Dee - Psicosis Ligera - Juegos.mp4,0,1350,1350,392.62,730.58,N,1
 K0256,El Laboratorio de Dexter,49 Pie Negro Y Delgada - Atraparlo Con Mi Venganza - El Perico Perfecto,P:/TVBoomerang/Series/El Laboratorio de Dexter/49 Pie Negro Y Delgada - Atraparlo Con Mi Venganza - El Perico Perfecto.mp4,0,1335,1335,438.58,852.42,N,1
@@ -268,8 +268,8 @@ K0266,El Laboratorio de Dexter,59 Virus - Una Caricatura De Dee Dee - El Bano De
 K0267,El Laboratorio de Dexter,60 Ese Magico Momento - Una Caricatura Muda - Los Opuestos Se Atraen,P:/TVBoomerang/Series/El Laboratorio de Dexter/60 Ese Magico Momento - Una Caricatura Muda - Los Opuestos Se Atraen.mp4,0,1340,1340,624.96,0,N,1
 K0268,El Laboratorio de Dexter,61 Amor Al Primer Guante - Una Caricatura De Mama y Papa - Huele A Victoria,P:/TVBoomerang/Series/El Laboratorio de Dexter/61 Amor Al Primer Guante - Una Caricatura De Mama y Papa - Huele A Victoria.mp4,0,1314,1314,541.17,885.92,N,1
 K0269,El Laboratorio de Dexter,62 Super Dexter - La Tercera Caricatura de Papa - Robo-Dexo 3000,P:/TVBoomerang/Series/El Laboratorio de Dexter/62 Super Dexter - La Tercera Caricatura de Papa - Robo-Dexo 3000.mp4,0,1341,1341,415.21,770.75,N,1
-K0270,El Laboratorio de Dexter," 63 Oh, Hermano - Otra Caricatura De Papa - Examen De Barra","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 63 Oh, Hermano - Otra Caricatura De Papa - Examen De Barra.mp4",0,1325,1325,558.58,0,N,1
-K0271,El Laboratorio de Dexter," 64 Vamos, Familia De Dexter, Vamos! - Donde Esta Peepers","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 64 Vamos, Familia De Dexter, Vamos! - Donde Esta Peepers.mp4",0,1327,1327,657.08,0,N,1
+K0270,El Laboratorio de Dexter," 63 Oh,Hermano - Otra Caricatura De Papa - Examen De Barra","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 63 Oh,Hermano - Otra Caricatura De Papa - Examen De Barra.mp4",0,1325,1325,558.58,0
+K0271,El Laboratorio de Dexter," 64 Vamos,Familia De Dexter,Vamos! - Donde Esta Peepers","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 64 Vamos,Familia De Dexter,Vamos! - Donde Esta Peepers.mp4",0,1327,1327
 K0272,El Laboratorio de Dexter,65 Tacticas De Miedo - Mama En El Super - Mi Papa Contra Tu Papa,P:/TVBoomerang/Series/El Laboratorio de Dexter/65 Tacticas De Miedo - Mama En El Super - Mi Papa Contra Tu Papa.mp4,0,1348,1348,381.5,787.46,N,1
 K0273,El Laboratorio de Dexter,66 El novio de Dee Dee - Perdida De Memoria - Los Planes De Dexter,P:/TVBoomerang/Series/El Laboratorio de Dexter/66 El novio de Dee Dee - Perdida De Memoria - Los Planes De Dexter.mp4,0,1335,1335,455.92,795.5,N,1
 K0274,El Laboratorio de Dexter,67 Error En El Sistema - Pirateria Satelital - La Biblioteca De Dexter,P:/TVBoomerang/Series/El Laboratorio de Dexter/67 Error En El Sistema - Pirateria Satelital - La Biblioteca De Dexter.mp4,0,1315,1315,386.5,872.25,N,1
@@ -277,7 +277,7 @@ K0275,El Laboratorio de Dexter,68 La Bola De Cristal - El Monstruo De Dee Dee - 
 K0276,El Laboratorio de Dexter,69 El Pequeno Dilema De Dexter - La Moda De Dexter - Super Hermanos,P:/TVBoomerang/Series/El Laboratorio de Dexter/69 El Pequeno Dilema De Dexter - La Moda De Dexter - Super Hermanos.mp4,0,1341,1341,452.71,890.92,N,1
 K0277,El Laboratorio de Dexter,70 El Germen Musical - La Casa De Los Animales De Peluche - La Pluma Hipnotica,P:/TVBoomerang/Series/El Laboratorio de Dexter/70 El Germen Musical - La Casa De Los Animales De Peluche - La Pluma Hipnotica.mp4,0,1327,1327,507.83,885.25,N,1
 K0278,El Laboratorio de Dexter,71 La Admiradora Secreta - Mama y El Ajedrez - Papa Sabe Menos,P:/TVBoomerang/Series/El Laboratorio de Dexter/71 La Admiradora Secreta - Mama y El Ajedrez - Papa Sabe Menos.mp4,0,1347,1347,457.92,888.75,N,1
-K0279,El Laboratorio de Dexter," 72 Dexter, El Barbaro - El Poder De La Papa - Vista Cansada","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 72 Dexter, El Barbaro - El Poder De La Papa - Vista Cansada.mp4",0,1325,1325,410.67,837.79,N,1
+K0279,El Laboratorio de Dexter," 72 Dexter,El Barbaro - El Poder De La Papa - Vista Cansada","P:/TVBoomerang/Series/El Laboratorio de Dexter/ 72 Dexter,El Barbaro - El Poder De La Papa - Vista Cansada.mp4",0,1325,1325,410.67,837.79
 K0280,El Laboratorio de Dexter,73 La Ninera - Cerebro Explorador - Los Dos Genios,P:/TVBoomerang/Series/El Laboratorio de Dexter/73 La Ninera - Cerebro Explorador - Los Dos Genios.mp4,0,1318,1318,447.33,867.75,N,1
 K0281,El Laboratorio de Dexter,74 Genio De Altura - Errores Del Pasado - Ricitos de Oro,P:/TVBoomerang/Series/El Laboratorio de Dexter/74 Genio De Altura - Errores Del Pasado - Ricitos de Oro.mp4,0,1308,1308,448.38,856.12,N,1
 K0282,El Laboratorio de Dexter,75 Afonia - Los Rubios Se Divierten Mas - Lucha De Historietas,P:/TVBoomerang/Series/El Laboratorio de Dexter/75 Afonia - Los Rubios Se Divierten Mas - Lucha De Historietas.mp4,0,1345,1345,402.54,884.12,N,1
@@ -435,11 +435,11 @@ K0433,La Vaca y el Pollito,07 La salchica mas fea (Parte 1),P:/TVBoomerang/Serie
 K0434,La Vaca y el Pollito,08 La salchica mas fea (Parte 2),P:/TVBoomerang/Series/La Vaca y el Pollito/08 La salchica mas fea (Parte 2).mp4,0,394,394,0,0,N,3
 K0435,La Vaca y el Pollito,09 El submarino,P:/TVBoomerang/Series/La Vaca y el Pollito/09 El submarino.mp4,0,395,395,0,0,N,3
 K0436,La Vaca y el Pollito,10 Almuerzo escolar,P:/TVBoomerang/Series/La Vaca y el Pollito/10 Almuerzo escolar.mp4,0,394,394,0,0,N,3
-K0437,La Vaca y el Pollito,"100 La noche de Ed, la mascota","P:/TVBoomerang/Series/La Vaca y el Pollito/100 La noche de Ed, la mascota.mp4",0,393,393,0,0,N,3
+K0437,La Vaca y el Pollito,"100 La noche de Ed,la mascota","P:/TVBoomerang/Series/La Vaca y el Pollito/100 La noche de Ed,la mascota.mp4",0,393,393,0,0
 K0438,La Vaca y el Pollito,101 El pastel de Vaca,P:/TVBoomerang/Series/La Vaca y el Pollito/101 El pastel de Vaca.mp4,0,393,393,0,0,N,3
 K0439,La Vaca y el Pollito,102 El Profesor Cuernos Largos,P:/TVBoomerang/Series/La Vaca y el Pollito/102 El Profesor Cuernos Largos.mp4,0,394,394,0,0,N,3
 K0440,La Vaca y el Pollito,103 Estrellas del patinaje,P:/TVBoomerang/Series/La Vaca y el Pollito/103 Estrellas del patinaje.mp4,0,394,394,0,0,N,3
-K0441,La Vaca y el Pollito,"104 Chachi, la foca de chicle","P:/TVBoomerang/Series/La Vaca y el Pollito/104 Chachi, la foca de chicle.mp4",0,394,394,0,0,N,3
+K0441,La Vaca y el Pollito,"104 Chachi,la foca de chicle","P:/TVBoomerang/Series/La Vaca y el Pollito/104 Chachi,la foca de chicle.mp4",0,394,394,0,0
 K0442,La Vaca y el Pollito,11  La Oveja Negra de la familia,P:/TVBoomerang/Series/La Vaca y el Pollito/11  La Oveja Negra de la familia.mp4,0,394,394,0,0,N,3
 K0443,La Vaca y el Pollito,12  Policia montada,P:/TVBoomerang/Series/La Vaca y el Pollito/12  Policia montada.mp4,0,394,394,0,0,N,3
 K0444,La Vaca y el Pollito,13  Policia de centro comercial,P:/TVBoomerang/Series/La Vaca y el Pollito/13  Policia de centro comercial.mp4,0,394,394,0,0,N,3
@@ -481,7 +481,7 @@ K0479,La Vaca y el Pollito,48 Pollito podador,P:/TVBoomerang/Series/La Vaca y el
 K0480,La Vaca y el Pollito,49 Vaca ama a Piles,P:/TVBoomerang/Series/La Vaca y el Pollito/49 Vaca ama a Piles.mp4,0,392,392,0,0,N,3
 K0481,La Vaca y el Pollito,50 Vacaciones en Oregon,P:/TVBoomerang/Series/La Vaca y el Pollito/50 Vacaciones en Oregon.mp4,0,394,394,0,0,N,3
 K0482,La Vaca y el Pollito,51 El Rey y la Reina del Queso,P:/TVBoomerang/Series/La Vaca y el Pollito/51 El Rey y la Reina del Queso.mp4,0,393,393,0,0,N,3
-K0483,La Vaca y el Pollito,"52 Fluffy, la anaconda","P:/TVBoomerang/Series/La Vaca y el Pollito/52 Fluffy, la anaconda.mp4",0,394,394,0,0,N,3
+K0483,La Vaca y el Pollito,"52 Fluffy,la anaconda","P:/TVBoomerang/Series/La Vaca y el Pollito/52 Fluffy,la anaconda.mp4",0,394,394,0,0
 K0484,La Vaca y el Pollito,53 El charco que se rie,P:/TVBoomerang/Series/La Vaca y el Pollito/53 El charco que se rie.mp4,0,394,394,0,0,N,3
 K0485,La Vaca y el Pollito,54 El capitan pirata Butz,P:/TVBoomerang/Series/La Vaca y el Pollito/54 El capitan pirata Butz.mp4,0,393,393,0,0,N,3
 K0486,La Vaca y el Pollito,55 Halloween con el Fantasma Muerto,P:/TVBoomerang/Series/La Vaca y el Pollito/55 Halloween con el Fantasma Muerto.mp4,0,394,394,0,0,N,3
@@ -491,7 +491,7 @@ K0489,La Vaca y el Pollito,58 Vaca Sumo,P:/TVBoomerang/Series/La Vaca y el Polli
 K0490,La Vaca y el Pollito,59 El cometa,P:/TVBoomerang/Series/La Vaca y el Pollito/59 El cometa.mp4,0,394,394,0,0,N,3
 K0491,La Vaca y el Pollito,60 Ropa sucia,P:/TVBoomerang/Series/La Vaca y el Pollito/60 Ropa sucia.mp4,0,395,395,0,0,N,3
 K0492,La Vaca y el Pollito,61 Safari con el Castor Grizzly,P:/TVBoomerang/Series/La Vaca y el Pollito/61 Safari con el Castor Grizzly.mp4,0,394,394,0,0,N,3
-K0493,La Vaca y el Pollito,"62 Que fue primero, el pollo o el huevo","P:/TVBoomerang/Series/La Vaca y el Pollito/62 Que fue primero, el pollo o el huevo.mp4",0,394,394,0,0,N,3
+K0493,La Vaca y el Pollito,"62 Que fue primero,el pollo o el huevo","P:/TVBoomerang/Series/La Vaca y el Pollito/62 Que fue primero,el pollo o el huevo.mp4",0,394,394,0,0
 K0494,La Vaca y el Pollito,63 Cometa Deshuesado,P:/TVBoomerang/Series/La Vaca y el Pollito/63 Cometa Deshuesado.mp4,0,394,394,0,0,N,3
 K0495,La Vaca y el Pollito,65 Vaquita y Pollito reclinables,P:/TVBoomerang/Series/La Vaca y el Pollito/65 Vaquita y Pollito reclinables.mp4,0,394,394,0,0,N,3
 K0496,La Vaca y el Pollito,66 Regalo sorpresa,P:/TVBoomerang/Series/La Vaca y el Pollito/66 Regalo sorpresa.mp4,0,392,392,0,0,N,3
@@ -582,7 +582,7 @@ K0580,Las Chicas Superpoderosas,55 Todo por un pan tostado - Divide y Conquista,
 K0581,Las Chicas Superpoderosas,56 Un ladron despistado - Boda Relampago,P:/TVBoomerang/Series/Las Chicas Superpoderosas/56 Un ladron despistado - Boda Relampago.mp4,0,1334,1334,685.89,0,N,1
 K0582,Las Chicas Superpoderosas,57 Salven a Mojo - Criatura Suplente,P:/TVBoomerang/Series/Las Chicas Superpoderosas/57 Salven a Mojo - Criatura Suplente.mp4,0,1347,1347,682,0,N,1
 K0583,Las Chicas Superpoderosas,58 El Regreso de los Chicos,P:/TVBoomerang/Series/Las Chicas Superpoderosas/58 El Regreso de los Chicos.mp4,0,1283,1283,591.48,0,N,1
-K0584,Las Chicas Superpoderosas,"59 Ve, Siente, Canta","P:/TVBoomerang/Series/Las Chicas Superpoderosas/59 Ve, Siente, Canta.mp4",0,1358,1358,591.24,0,N,1
+K0584,Las Chicas Superpoderosas,"59 Ve,Siente,Canta","P:/TVBoomerang/Series/Las Chicas Superpoderosas/59 Ve,Siente,Canta.mp4",0,1358,1358
 K0585,Las Chicas Superpoderosas,60 Quien moja la cama - Estrategias,P:/TVBoomerang/Series/Las Chicas Superpoderosas/60 Quien moja la cama - Estrategias.mp4,0,1342,1342,687.81,0,N,1
 K0586,Las Chicas Superpoderosas,61 La Semilla de la Discordia - El Armario de los Recuerdos,P:/TVBoomerang/Series/Las Chicas Superpoderosas/61 La Semilla de la Discordia - El Armario de los Recuerdos.mp4,0,1337,1337,712.63,0,N,1
 K0587,Las Chicas Superpoderosas,62 Mentirillas Blancas - El Niño Burbuja,P:/TVBoomerang/Series/Las Chicas Superpoderosas/62 Mentirillas Blancas - El Niño Burbuja.mp4,0,1377,1377,695.28,0,N,1
@@ -604,7 +604,7 @@ K0602,Las Chicas Superpoderosas,78 Mano Dura - Te la estas Jugando...,P:/TVBoome
 K0603,Las Nuevas Locuras del Emperador,01 Cara de conejo,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/01 Cara de conejo.mp4,0,1300,1300,383.762591,944.328676,N,1
 K0604,Las Nuevas Locuras del Emperador,02 Squeakend at Buckys - Fiebre de Kuzco,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/02 Squeakend at Buckys - Fiebre de Kuzco.mp4,0,1300,1300,661.61652,0,N,1
 K0605,Las Nuevas Locuras del Emperador,03 Empress Malina - Las aventuras del hombre rana de ojos rojos,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/03 Empress Malina - Las aventuras del hombre rana de ojos rojos.mp4,0,1301,1301,651.416467,0,N,1
-K0606,Las Nuevas Locuras del Emperador,"04 Llama hambrienta, hambrienta - Solo el mal sobrevive","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/04 Llama hambrienta, hambrienta - Solo el mal sobrevive.mp4",0,1300,1300,646.52231,0,N,1
+K0606,Las Nuevas Locuras del Emperador,"04 Llama hambrienta,hambrienta - Solo el mal sobrevive","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/04 Llama hambrienta,hambrienta - Solo el mal sobrevive.mp4",0,1300,1300,646.52231,0
 K0607,Las Nuevas Locuras del Emperador,05 Lavado de autos - Batalla de los Bots,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/05 Lavado de autos - Batalla de los Bots.mp4,0,1301,1301,676.43851,0,N,1
 K0608,Las Nuevas Locuras del Emperador,06 Chicas que se comportan extranamente,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/06 Chicas que se comportan extranamente.mp4,0,1301,1301,579.186102,904.888235,N,1
 K0609,Las Nuevas Locuras del Emperador,07 Los Ninos Perdidos - La Gran Lucha,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/07 Los Ninos Perdidos - La Gran Lucha.mp4,0,1300,1300,681.709678,0,N,1
@@ -613,7 +613,7 @@ K0611,Las Nuevas Locuras del Emperador,09 No apto para publicarse - La Nueva Mas
 K0612,Las Nuevas Locuras del Emperador,10 Campesino por un dia,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/10 Campesino por un dia.mp4,0,1300,1300,486.225696,808.108058,N,1
 K0613,Las Nuevas Locuras del Emperador,11 Dia De La Galleta De La Fortuna - Tonto de oro,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/11 Dia De La Galleta De La Fortuna - Tonto de oro.mp4,0,1300,1300,644.280231,0,N,1
 K0614,Las Nuevas Locuras del Emperador,12 El misterio de Micchu Pachu,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/12 El misterio de Micchu Pachu.mp4,0,1300,1300,508.648878,910.243524,N,1
-K0615,Las Nuevas Locuras del Emperador,"13 Vaya!, Todos los garabatos - Ardilla de negocios","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/13 Vaya!, Todos los garabatos - Ardilla de negocios.mp4",0,1300,1300,650.680767,0,N,1
+K0615,Las Nuevas Locuras del Emperador,"13 Vaya!,Todos los garabatos - Ardilla de negocios","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/13 Vaya!,Todos los garabatos - Ardilla de negocios.mp4",0,1300,1300,650.680767,0
 K0616,Las Nuevas Locuras del Emperador,14 Choque de familias,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/14 Choque de familias.mp4,0,1300,1300,494.388407,717.161703,N,1
 K0617,Las Nuevas Locuras del Emperador,15 El nuevo chico - Oficial Kronk,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/15 El nuevo chico - Oficial Kronk.mp4,0,1301,1301,677.395518,0,N,1
 K0618,Las Nuevas Locuras del Emperador,16 Kronk se muda,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/16 Kronk se muda.mp4,0,1300,1300,512.527535,935.386925,N,1
@@ -639,7 +639,7 @@ K0637,Las Nuevas Locuras del Emperador,35 Air Kuzco - Kronkenitza,P:/TVBoomerang
 K0638,Las Nuevas Locuras del Emperador,36 Ven y vuela conmigo - Proyecto Poncho,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/36 Ven y vuela conmigo - Proyecto Poncho.mp4,0,1294,1294,695.952456,0,N,1
 K0639,Las Nuevas Locuras del Emperador,37 Ciudadano Kronk - El dilema de la llama,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/37 Ciudadano Kronk - El dilema de la llama.mp4,0,1295,1295,744.772212,0,N,1
 K0640,Las Nuevas Locuras del Emperador,38 Yzma se fue - Ultimo esfuerzo,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/38 Yzma se fue - Ultimo esfuerzo.mp4,0,1295,1295,657.820704,0,N,1
-K0641,Las Nuevas Locuras del Emperador,"39 El bueno, el malo y el Kronk - Barro","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/39 El bueno, el malo y el Kronk - Barro.mp4",0,1295,1295,686.270376,0,N,1
+K0641,Las Nuevas Locuras del Emperador,"39 El bueno,el malo y el Kronk - Barro","P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/39 El bueno,el malo y el Kronk - Barro.mp4",0,1295,1295,686.270376,0
 K0642,Las Nuevas Locuras del Emperador,40 Accion de Subasta - El asombroso Kuzco,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/40 Accion de Subasta - El asombroso Kuzco.mp4,0,1295,1295,637.492377,0,N,1
 K0643,Las Nuevas Locuras del Emperador,41 Las reglas de Guaka,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/41 Las reglas de Guaka.mp4,0,1295,1295,551.793706,849.290368,N,1
 K0644,Las Nuevas Locuras del Emperador,42 El gran descanso de Malina - Hotel Kuzco,P:/TVBoomerang/Series/Las Nuevas Locuras del Emperador/42 El gran descanso de Malina - Hotel Kuzco.mp4,0,1295,1295,688.439843,0,N,1
@@ -685,7 +685,7 @@ K0683,Las Tortugas Ninja,31 La espada fantasma,P:/TVBoomerang/Series/Las Tortuga
 K0684,Las Tortugas Ninja,32 20.000 Leguas bajo la ciudad,P:/TVBoomerang/Series/Las Tortugas Ninja/32 20.000 Leguas bajo la ciudad.mp4,0,1327,1327,477.22775,931.763897,N,1
 K0685,Las Tortugas Ninja,33 Quien sera el nuevo lider,P:/TVBoomerang/Series/Las Tortugas Ninja/33 Quien sera el nuevo lider.mp4,0,1329,1329,480.135981,883.023801,N,1
 K0686,Las Tortugas Ninja,34 Las 4 Mosquetortugas,P:/TVBoomerang/Series/Las Tortugas Ninja/34 Las 4 Mosquetortugas.mp4,0,1329,1329,440.438828,860.767551,N,1
-K0687,Las Tortugas Ninja,"35 Tortugas, tortugas pordoquier","P:/TVBoomerang/Series/Las Tortugas Ninja/35 Tortugas, tortugas pordoquier.mp4",0,1332,1332,493.617671,888.676141,N,1
+K0687,Las Tortugas Ninja,"35 Tortugas,tortugas pordoquier","P:/TVBoomerang/Series/Las Tortugas Ninja/35 Tortugas,tortugas pordoquier.mp4",0,1332,1332,493.617671,888.676141
 K0688,Las Tortugas Ninja,36 Miguelangel no quiere pizza,P:/TVBoomerang/Series/Las Tortugas Ninja/36 Miguelangel no quiere pizza.mp4,0,1330,1330,519.031416,833.047384,N,1
 K0689,Las Tortugas Ninja,37 La invacion de los caza tortugas,P:/TVBoomerang/Series/Las Tortugas Ninja/37 La invacion de los caza tortugas.mp4,0,1329,1329,496.62887,849.824373,N,1
 K0690,Las Tortugas Ninja,38 Una foto sorpresiva,P:/TVBoomerang/Series/Las Tortugas Ninja/38 Una foto sorpresiva.mp4,0,1332,1332,541.703335,894.383177,N,1
@@ -766,13 +766,13 @@ K0764,Mario Bros,107 Mario Y Los Frijoles Magicos,P:/TVBoomerang/Series/Mario Br
 K0765,Mario Bros,108 Amalo y Dejalo,P:/TVBoomerang/Series/Mario Bros/108 Amalo y Dejalo.mp4,230,1014,784,0,0,N,2
 K0766,Mario Bros,109 La Gran Carrera De Bicicletas,P:/TVBoomerang/Series/Mario Bros/109 La Gran Carrera De Bicicletas.mp4,231,1016,785,0,0,N,2
 K0767,Mario Bros,110 Dos Fontaneros Y Un Bebe,P:/TVBoomerang/Series/Mario Bros/110 Dos Fontaneros Y Un Bebe.mp4,202,987,785,0,0,N,2
-K0768,Mario Bros,"201 Los tramposos, mentirosos e intrigantes koopas ninja gigantes","P:/TVBoomerang/Series/Mario Bros/201 Los tramposos, mentirosos e intrigantes koopas ninja gigantes.mp4",40,687,647,0,0,N,2
+K0768,Mario Bros,"201 Los tramposos,mentirosos e intrigantes koopas ninja gigantes","P:/TVBoomerang/Series/Mario Bros/201 Los tramposos,mentirosos e intrigantes koopas ninja gigantes.mp4",40,687,647,0,0
 K0769,Mario Bros,202 Reptiles en el jardin de las rosas,P:/TVBoomerang/Series/Mario Bros/202 Reptiles en el jardin de las rosas.mp4,35,686,651,0,0,N,2
 K0770,Mario Bros,203 Pequeños diablillos viajan en el tiempo,P:/TVBoomerang/Series/Mario Bros/203 Pequeños diablillos viajan en el tiempo.mp4,38,694,656,0,0,N,2
 K0771,Mario Bros,204 La bella Kootie Pie,P:/TVBoomerang/Series/Mario Bros/204 La bella Kootie Pie.mp4,38,688,650,0,0,N,2
 K0772,Mario Bros,205 Reinado tormentoso,P:/TVBoomerang/Series/Mario Bros/205 Reinado tormentoso.mp4,38,698,660,0,0,N,2
 K0773,Mario Bros,206 Nunca koopa-confies en un koopa,P:/TVBoomerang/Series/Mario Bros/206 Nunca koopa-confies en un koopa.mp4,38,701,663,0,0,N,2
-K0774,Mario Bros,"207 Mima a tu mami momia, Mario","P:/TVBoomerang/Series/Mario Bros/207 Mima a tu mami momia, Mario.mp4",38,690,652,0,0,N,2
+K0774,Mario Bros,"207 Mima a tu mami momia,Mario","P:/TVBoomerang/Series/Mario Bros/207 Mima a tu mami momia,Mario.mp4",38,690,652,0,0
 K0775,Mario Bros,208 Desventuras de unas niñeras,P:/TVBoomerang/Series/Mario Bros/208 Desventuras de unas niñeras.mp4,38,726,688,0,0,N,2
 K0776,Mario Bros,209 Una aventura totalmente magica,P:/TVBoomerang/Series/Mario Bros/209 Una aventura totalmente magica.mp4,38,729,691,0,0,N,2
 K0777,Mario Bros,210 ¡Que hermano!,P:/TVBoomerang/Series/Mario Bros/210 ¡Que hermano!.mp4,38,700,662,0,0,N,2
@@ -809,7 +809,7 @@ K0807,Mike Lu y Og,12 La Nariz - Llego el Correo,P:/TVBoomerang/Series/Mike Lu y
 K0808,Mike Lu y Og,13 Vamos de Campamento - Epidemia,P:/TVBoomerang/Series/Mike Lu y Og/13 Vamos de Campamento - Epidemia.mp4,0,1351,1351,675.5,0,N,1
 K0809,Mike Lu y Og,14 Un Dia en la Escuela - Nosotros el Pueblo,P:/TVBoomerang/Series/Mike Lu y Og/14 Un Dia en la Escuela - Nosotros el Pueblo.mp4,0,1351,1351,676.01,0,N,1
 K0810,Mike Lu y Og,15 Dinero - Repite lo Que Digo,P:/TVBoomerang/Series/Mike Lu y Og/15 Dinero - Repite lo Que Digo.mp4,0,1351,1351,675.55,0,N,1
-K0811,Mike Lu y Og,"16 Gracias, Pero no Gracias - Hot Dog","P:/TVBoomerang/Series/Mike Lu y Og/16 Gracias, Pero no Gracias - Hot Dog.mp4",0,1351,1351,674.5,0,N,1
+K0811,Mike Lu y Og,"16 Gracias,Pero no Gracias - Hot Dog","P:/TVBoomerang/Series/Mike Lu y Og/16 Gracias,Pero no Gracias - Hot Dog.mp4",0,1351,1351,674.5,0
 K0812,Mike Lu y Og,17 La Isla se Hunde - El Dia de los Fundadores,P:/TVBoomerang/Series/Mike Lu y Og/17 La Isla se Hunde - El Dia de los Fundadores.mp4,0,1351,1351,675,0,N,1
 K0813,Mike Lu y Og,18 El Gigante - La Noche de los Ancestros Vivientes,P:/TVBoomerang/Series/Mike Lu y Og/18 El Gigante - La Noche de los Ancestros Vivientes.mp4,0,1351,1351,675,0,N,1
 K0814,Mike Lu y Og,19 Por el Amor de Mike - Destellos,P:/TVBoomerang/Series/Mike Lu y Og/19 Por el Amor de Mike - Destellos.mp4,0,1351,1351,675.68,0,N,1
@@ -907,7 +907,7 @@ K0905,Pitufos,97 El Huevo Podrido,P:/TVBoomerang/Series/Pitufos/97 El Huevo Podr
 K0906,Pitufos,98 La Lagrima De Un Pitufo,P:/TVBoomerang/Series/Pitufos/98 La Lagrima De Un Pitufo.mp4,55.5,763,763,0,0,N,2
 K0907,Pitufos,99 El Curandero Milagroso,P:/TVBoomerang/Series/Pitufos/99 El Curandero Milagroso.mp4,55.5,1356,1356,367.729058,740.93282,N,2
 K0908,Pitufos,100 Como Hacer Un Arco Iris,P:/TVBoomerang/Series/Pitufos/100 Como Hacer Un Arco Iris.mp4,0,698,698,0,0,N,2
-K0909,Pitufos,"102 Pitufina, Tu Seras Mia","P:/TVBoomerang/Series/Pitufos/102 Pitufina, Tu Seras Mia.mp4",55.5,764,764,0,0,N,2
+K0909,Pitufos,"102 Pitufina,Tu Seras Mia","P:/TVBoomerang/Series/Pitufos/102 Pitufina,Tu Seras Mia.mp4",55.5,764,764,0,0
 K0910,Pitufos,103 Pitufos Lenadores,P:/TVBoomerang/Series/Pitufos/103 Pitufos Lenadores.mp4,55.5,675,675,0,0,N,2
 K0911,Pitufos,105 La novia del Genio,P:/TVBoomerang/Series/Pitufos/105 La novia del Genio.mp4,55.5,1356,1356,423.911206,733.315825,N,2
 K0912,Pitufos,106 Habla por ti mismo Granjero,P:/TVBoomerang/Series/Pitufos/106 Habla por ti mismo Granjero.mp4,55.5,764,764,0,0,N,2
@@ -950,7 +950,7 @@ K0948,Pokemon,T01 07 Las flores acuaticas de Ciudad Celeste,P:/TVBoomerang/Serie
 K0949,Pokemon,T01 08 El camino hacia la Liga Pokemon,P:/TVBoomerang/Series/Pokemon/T01 08 El camino hacia la Liga Pokemon.mp4,0,1342,1342,447.3333333,894.6666667,Y,1
 K0950,Pokemon,T01 09 La escuela de los golpes duros,P:/TVBoomerang/Series/Pokemon/T01 09 La escuela de los golpes duros.mp4,0,1342,1342,447.3333333,894.6666667,Y,1
 K0951,Pokemon,T01 10 Bulbasaur y la Aldea Secreta,P:/TVBoomerang/Series/Pokemon/T01 10 Bulbasaur y la Aldea Secreta.mp4,0,1342,1342,447.3333333,894.6666667,Y,1
-K0952,Pokemon,"T01 11 Charmander, el Pokemon abandonado","P:/TVBoomerang/Series/Pokemon/T01 11 Charmander, el Pokemon abandonado.mp4",0,1342,1342,447.3333333,894.6666667,Y,1
+K0952,Pokemon,"T01 11 Charmander,el Pokemon abandonado","P:/TVBoomerang/Series/Pokemon/T01 11 Charmander,el Pokemon abandonado.mp4",0,1342,1342,447.3333333,894.6666667
 K0953,Pokemon,T01 12 El Escuadron de Squirtle,P:/TVBoomerang/Series/Pokemon/T01 12 El Escuadron de Squirtle.mp4,0,1341,1341,447,894,Y,1
 K0954,Pokemon,T01 13 Misterio en el Faro,P:/TVBoomerang/Series/Pokemon/T01 13 Misterio en el Faro.mp4,0,1342,1342,447.3333333,894.6666667,Y,1
 K0955,Pokemon,T01 14 Duelo electrico,P:/TVBoomerang/Series/Pokemon/T01 14 Duelo electrico.mp4,0,1342,1342,447.3333333,894.6666667,Y,1
@@ -1006,15 +1006,15 @@ K1004,Pokemon,T01 67 Duelo en el Poke corral,P:/TVBoomerang/Series/Pokemon/T01 6
 K1005,Pokemon,T01 68 La solucion de la evolucion,P:/TVBoomerang/Series/Pokemon/T01 68 La solucion de la evolucion.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1006,Pokemon,T01 69 La Pi Kahuna,P:/TVBoomerang/Series/Pokemon/T01 69 La Pi Kahuna.mp4,0,1358,1358,452.6666667,905.3333333,N,1
 K1007,Pokemon,T01 70 Hagan espacio para Gloom!,P:/TVBoomerang/Series/Pokemon/T01 70 Hagan espacio para Gloom!.mp4,0,1357,1357,452.3333333,904.6666667,N,1
-K1008,Pokemon,"T01 71 Luces, camara, Quaccion!","P:/TVBoomerang/Series/Pokemon/T01 71 Luces, camara, Quaccion!.mp4",0,1357,1357,452.3333333,904.6666667,N,1
-K1009,Pokemon,"T01 72 Ve al oeste, Meowth","P:/TVBoomerang/Series/Pokemon/T01 72 Ve al oeste, Meowth.mp4",0,1357,1357,452.3333333,904.6666667,N,1
+K1008,Pokemon,"T01 71 Luces,camara,Quaccion!","P:/TVBoomerang/Series/Pokemon/T01 71 Luces,camara,Quaccion!.mp4",0,1357,1357
+K1009,Pokemon,"T01 72 Ve al oeste,Meowth","P:/TVBoomerang/Series/Pokemon/T01 72 Ve al oeste,Meowth.mp4",0,1357,1357,452.3333333,904.6666667
 K1010,Pokemon,T01 73 Dominando lo Onixperado,P:/TVBoomerang/Series/Pokemon/T01 73 Dominando lo Onixperado.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1011,Pokemon,T01 74 El misterio de Pokemopolis,P:/TVBoomerang/Series/Pokemon/T01 74 El misterio de Pokemopolis.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1012,Pokemon,T01 75 Malo hasta los huesos,P:/TVBoomerang/Series/Pokemon/T01 75 Malo hasta los huesos.mp4,0,1358,1358,452.6666667,905.3333333,N,1
 K1013,Pokemon,T01 76 Todos prendidos!,P:/TVBoomerang/Series/Pokemon/T01 76 Todos prendidos!.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1014,Pokemon,T01 77 La primera ronda comienza,P:/TVBoomerang/Series/Pokemon/T01 77 La primera ronda comienza.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1015,Pokemon,T01 78 Fuego y hielo,P:/TVBoomerang/Series/Pokemon/T01 78 Fuego y hielo.mp4,0,1358,1358,452.6666667,905.3333333,N,1
-K1016,Pokemon,"T01 79 La cuarta ronda, tiembla","P:/TVBoomerang/Series/Pokemon/T01 79 La cuarta ronda, tiembla.mp4",0,1357,1357,452.3333333,904.6666667,N,1
+K1016,Pokemon,"T01 79 La cuarta ronda,tiembla","P:/TVBoomerang/Series/Pokemon/T01 79 La cuarta ronda,tiembla.mp4",0,1357,1357,452.3333333,904.6666667
 K1017,Pokemon,T01 80 Amigos y heroes,P:/TVBoomerang/Series/Pokemon/T01 80 Amigos y heroes.mp4,0,1357,1357,452.3333333,904.6666667,N,1
 K1018,Pokemon,T01 81 Amigos y enemigos por igual,P:/TVBoomerang/Series/Pokemon/T01 81 Amigos y enemigos por igual.mp4,0,1358,1358,452.6666667,905.3333333,N,1
 K1019,Pokemon,T01 82 Amigos hasta el fin,P:/TVBoomerang/Series/Pokemon/T01 82 Amigos hasta el fin.mp4,0,1357,1357,452.3333333,904.6666667,N,1
@@ -1052,44 +1052,44 @@ K1050,Pokemon,T02 32 Vivan las Lapras!,P:/TVBoomerang/Series/Pokemon/T02 32 Viva
 K1051,Pokemon,T02 33 La patrulla subterranea,P:/TVBoomerang/Series/Pokemon/T02 33 La patrulla subterranea.mp4,0,1314,1314,438,876,N,1
 K1052,Pokemon,T02 34 Reencuentros,P:/TVBoomerang/Series/Pokemon/T02 34 Reencuentros.mp4,0,1314,1314,438,876,N,1
 K1053,Pokemon,T02 35 La rivalidad revive,P:/TVBoomerang/Series/Pokemon/T02 35 La rivalidad revive.mp4,0,1315,1315,438.3333333,876.6666667,N,1
-K1054,Tintin,"01 El Cangrejo de las Pinzas de Oro, Parte 1","P:/TVBoomerang/Series/Tintin/01 El Cangrejo de las Pinzas de Oro, Parte 1.mp4",0,1398,1398,673.73058,0,N,1
-K1055,Tintin,"02 El Cangrejo de las Pinzas de Oro, Parte 2","P:/TVBoomerang/Series/Tintin/02 El Cangrejo de las Pinzas de Oro, Parte 2.mp4",0,1399,1399,768.335933,0,N,1
-K1056,Tintin,"03 El Secreto del Unicornio, Parte 1","P:/TVBoomerang/Series/Tintin/03 El Secreto del Unicornio, Parte 1.mp4",0,1312,1312,696.143216,0,N,1
-K1057,Tintin,"04 El Secreto del Unicornio, Parte 2","P:/TVBoomerang/Series/Tintin/04 El Secreto del Unicornio, Parte 2.mp4",0,1400,1400,765.568536,0,N,1
+K1054,Tintin,"01 El Cangrejo de las Pinzas de Oro,Parte 1","P:/TVBoomerang/Series/Tintin/01 El Cangrejo de las Pinzas de Oro,Parte 1.mp4",0,1398,1398,673.73058,0
+K1055,Tintin,"02 El Cangrejo de las Pinzas de Oro,Parte 2","P:/TVBoomerang/Series/Tintin/02 El Cangrejo de las Pinzas de Oro,Parte 2.mp4",0,1399,1399,768.335933,0
+K1056,Tintin,"03 El Secreto del Unicornio,Parte 1","P:/TVBoomerang/Series/Tintin/03 El Secreto del Unicornio,Parte 1.mp4",0,1312,1312,696.143216,0
+K1057,Tintin,"04 El Secreto del Unicornio,Parte 2","P:/TVBoomerang/Series/Tintin/04 El Secreto del Unicornio,Parte 2.mp4",0,1400,1400,765.568536,0
 K1058,Tintin,05 El Tesoro de Rackhams El Rojo,P:/TVBoomerang/Series/Tintin/05 El Tesoro de Rackhams El Rojo.mp4,0,1333,1333,726.430891,0,N,1
-K1059,Tintin,"06 Los Cigarrillos del Faraon, Parte 1","P:/TVBoomerang/Series/Tintin/06 Los Cigarrillos del Faraon, Parte 1.mp4",0,1398,1398,714.413779,0,N,1
-K1060,Tintin,"07 Los Cigarrillos del Faraon, Parte 2","P:/TVBoomerang/Series/Tintin/07 Los Cigarrillos del Faraon, Parte 2.mp4",0,1398,1398,746.481137,0,N,1
-K1061,Tintin,"08 El Loto Azul, Parte 1","P:/TVBoomerang/Series/Tintin/08 El Loto Azul, Parte 1.mp4",0,1333,1333,622.882757,0,N,1
-K1062,Tintin,"09 El Loto Azul, Parte 2","P:/TVBoomerang/Series/Tintin/09 El Loto Azul, Parte 2.mp4",0,1267,1267,707.498526,0,N,1
-K1063,Tintin,"10 La Isla Negra, Parte 1","P:/TVBoomerang/Series/Tintin/10 La Isla Negra, Parte 1.mp4",0,1399,1399,646.4282,0,N,1
-K1064,Tintin,"11 La Isla Negra, Parte 2","P:/TVBoomerang/Series/Tintin/11 La Isla Negra, Parte 2.mp4",0,1399,1399,645.719372,0,N,1
-K1065,Tintin,"12 El Asunto Tornasol, Parte 1","P:/TVBoomerang/Series/Tintin/12 El Asunto Tornasol, Parte 1.mp4",0,1399,1399,650.812917,0,N,1
-K1066,Tintin,"13 El Asunto Tornasol, Parte 2","P:/TVBoomerang/Series/Tintin/13 El Asunto Tornasol, Parte 2.mp4",0,1399,1399,708.041258,0,N,1
+K1059,Tintin,"06 Los Cigarrillos del Faraon,Parte 1","P:/TVBoomerang/Series/Tintin/06 Los Cigarrillos del Faraon,Parte 1.mp4",0,1398,1398,714.413779,0
+K1060,Tintin,"07 Los Cigarrillos del Faraon,Parte 2","P:/TVBoomerang/Series/Tintin/07 Los Cigarrillos del Faraon,Parte 2.mp4",0,1398,1398,746.481137,0
+K1061,Tintin,"08 El Loto Azul,Parte 1","P:/TVBoomerang/Series/Tintin/08 El Loto Azul,Parte 1.mp4",0,1333,1333,622.882757,0
+K1062,Tintin,"09 El Loto Azul,Parte 2","P:/TVBoomerang/Series/Tintin/09 El Loto Azul,Parte 2.mp4",0,1267,1267,707.498526,0
+K1063,Tintin,"10 La Isla Negra,Parte 1","P:/TVBoomerang/Series/Tintin/10 La Isla Negra,Parte 1.mp4",0,1399,1399,646.4282,0
+K1064,Tintin,"11 La Isla Negra,Parte 2","P:/TVBoomerang/Series/Tintin/11 La Isla Negra,Parte 2.mp4",0,1399,1399,645.719372,0
+K1065,Tintin,"12 El Asunto Tornasol,Parte 1","P:/TVBoomerang/Series/Tintin/12 El Asunto Tornasol,Parte 1.mp4",0,1399,1399,650.812917,0
+K1066,Tintin,"13 El Asunto Tornasol,Parte 2","P:/TVBoomerang/Series/Tintin/13 El Asunto Tornasol,Parte 2.mp4",0,1399,1399,708.041258,0
 K1067,Tintin,14 La estrella misteriosa,P:/TVBoomerang/Series/Tintin/14 La estrella misteriosa.mp4,0,1399,1399,709.668905,0,N,1
-K1068,Tintin,"15 La Oreja Rota, Parte 1","P:/TVBoomerang/Series/Tintin/15 La Oreja Rota, Parte 1.mp4",0,1398,1398,715.10454,0,N,1
-K1069,Tintin,"16 La Oreja Rota, Parte 2","P:/TVBoomerang/Series/Tintin/16 La Oreja Rota, Parte 2.mp4",0,1398,1398,762.142931,0,N,1
-K1070,Tintin,"17 El Cetro de Ottokar, Parte 1","P:/TVBoomerang/Series/Tintin/17 El Cetro de Ottokar, Parte 1.mp4",0,1399,1399,691.954034,0,N,1
-K1071,Tintin,"18 El Cetro de Ottokar, Parte 2","P:/TVBoomerang/Series/Tintin/18 El Cetro de Ottokar, Parte 2.mp4",0,1399,1399,688.555741,0,N,1
-K1072,Tintin,"19 Tintin en el Tibet, Parte 1","P:/TVBoomerang/Series/Tintin/19 Tintin en el Tibet, Parte 1.mp4",0,1398,1398,706.225652,0,N,1
-K1073,Tintin,"20 Tintin en el Tibet, Parte 2","P:/TVBoomerang/Series/Tintin/20 Tintin en el Tibet, Parte 2.mp4",0,1398,1398,634.910514,0,N,1
-K1074,Tintin,"21 Tintin y los Pícaros, Parte 1","P:/TVBoomerang/Series/Tintin/21 Tintin y los Pícaros, Parte 1.mp4",0,1399,1399,754.338,0,N,1
-K1075,Tintin,"22 Tintin y los Pícaros, Parte 2","P:/TVBoomerang/Series/Tintin/22 Tintin y los Pícaros, Parte 2.mp4",0,1399,1399,753.728326,0,N,1
-K1076,Tintin,"23 El Oro Negro, Parte 1","P:/TVBoomerang/Series/Tintin/23 El Oro Negro, Parte 1.mp4",0,1398,1398,587.786124,0,N,1
-K1077,Tintin,"24 El Oro Negro, Parte 2","P:/TVBoomerang/Series/Tintin/24 El Oro Negro, Parte 2.mp4",0,1398,1398,800.902738,0,N,1
-K1078,Tintin,"25 Vuelo 714, Parte 1","P:/TVBoomerang/Series/Tintin/25 Vuelo 714, Parte 1.mp4",0,1399,1399,646.339119,0,N,1
-K1079,Tintin,"26 Vuelo 714, Parte 2","P:/TVBoomerang/Series/Tintin/26 Vuelo 714, Parte 2.mp4",0,1398,1398,735.042219,0,N,1
-K1080,Tintin,"27 Los tiburones del Mar Rojo, Parte 1","P:/TVBoomerang/Series/Tintin/27 Los tiburones del Mar Rojo, Parte 1.mp4",0,1398,1398,755.146716,0,N,1
-K1081,Tintin,"28 Los tiburones del Mar Rojo, Parte 2","P:/TVBoomerang/Series/Tintin/28 Los tiburones del Mar Rojo, Parte 2.mp4",0,1398,1398,754.645139,0,N,1
-K1082,Tintin,"29 Las Siete Bolas de Cristal, Parte 1","P:/TVBoomerang/Series/Tintin/29 Las Siete Bolas de Cristal, Parte 1.mp4",0,1398,1398,747.038227,0,N,1
-K1083,Tintin,"30 Las Siete Bolas de Cristal, Parte 2","P:/TVBoomerang/Series/Tintin/30 Las Siete Bolas de Cristal, Parte 2.mp4",0,1399,1399,801.165805,0,N,1
-K1084,Tintin,"31 El Templo del Sol, Parte 1","P:/TVBoomerang/Series/Tintin/31 El Templo del Sol, Parte 1.mp4",0,1399,1399,704.473249,0,N,1
-K1085,Tintin,"32 El Templo del Sol, Parte 2","P:/TVBoomerang/Series/Tintin/32 El Templo del Sol, Parte 2.mp4",0,1399,1399,723.613595,0,N,1
-K1086,Tintin,"33 Las joyas de Castafiore, Parte 1","P:/TVBoomerang/Series/Tintin/33 Las joyas de Castafiore, Parte 1.mp4",0,1398,1398,673.545239,0,N,1
-K1087,Tintin,"34 Las Joyas de Castiafore, Parte 2","P:/TVBoomerang/Series/Tintin/34 Las Joyas de Castiafore, Parte 2.mp4",0,1399,1399,662.694601,0,N,1
-K1088,Tintin,"35 Destino La Luna, Parte 1","P:/TVBoomerang/Series/Tintin/35 Destino La Luna, Parte 1.mp4",0,1398,1398,747.236568,0,N,1
-K1089,Tintin,"36 Destino La Luna, Parte 2","P:/TVBoomerang/Series/Tintin/36 Destino La Luna, Parte 2.mp4",0,1398,1398,781.884454,0,N,1
-K1090,Tintin,"37 Aterrizaje en la Luna, Parte 1","P:/TVBoomerang/Series/Tintin/37 Aterrizaje en la Luna, Parte 1.mp4",0,1397,1397,696.059416,0,N,1
-K1091,Tintin,"38 Aterrizaje en la Luna, Parte 2","P:/TVBoomerang/Series/Tintin/38 Aterrizaje en la Luna, Parte 2.mp4",0,1398,1398,698.891988,0,N,1
+K1068,Tintin,"15 La Oreja Rota,Parte 1","P:/TVBoomerang/Series/Tintin/15 La Oreja Rota,Parte 1.mp4",0,1398,1398,715.10454,0
+K1069,Tintin,"16 La Oreja Rota,Parte 2","P:/TVBoomerang/Series/Tintin/16 La Oreja Rota,Parte 2.mp4",0,1398,1398,762.142931,0
+K1070,Tintin,"17 El Cetro de Ottokar,Parte 1","P:/TVBoomerang/Series/Tintin/17 El Cetro de Ottokar,Parte 1.mp4",0,1399,1399,691.954034,0
+K1071,Tintin,"18 El Cetro de Ottokar,Parte 2","P:/TVBoomerang/Series/Tintin/18 El Cetro de Ottokar,Parte 2.mp4",0,1399,1399,688.555741,0
+K1072,Tintin,"19 Tintin en el Tibet,Parte 1","P:/TVBoomerang/Series/Tintin/19 Tintin en el Tibet,Parte 1.mp4",0,1398,1398,706.225652,0
+K1073,Tintin,"20 Tintin en el Tibet,Parte 2","P:/TVBoomerang/Series/Tintin/20 Tintin en el Tibet,Parte 2.mp4",0,1398,1398,634.910514,0
+K1074,Tintin,"21 Tintin y los Pícaros,Parte 1","P:/TVBoomerang/Series/Tintin/21 Tintin y los Pícaros,Parte 1.mp4",0,1399,1399,754.338,0
+K1075,Tintin,"22 Tintin y los Pícaros,Parte 2","P:/TVBoomerang/Series/Tintin/22 Tintin y los Pícaros,Parte 2.mp4",0,1399,1399,753.728326,0
+K1076,Tintin,"23 El Oro Negro,Parte 1","P:/TVBoomerang/Series/Tintin/23 El Oro Negro,Parte 1.mp4",0,1398,1398,587.786124,0
+K1077,Tintin,"24 El Oro Negro,Parte 2","P:/TVBoomerang/Series/Tintin/24 El Oro Negro,Parte 2.mp4",0,1398,1398,800.902738,0
+K1078,Tintin,"25 Vuelo 714,Parte 1","P:/TVBoomerang/Series/Tintin/25 Vuelo 714,Parte 1.mp4",0,1399,1399,646.339119,0
+K1079,Tintin,"26 Vuelo 714,Parte 2","P:/TVBoomerang/Series/Tintin/26 Vuelo 714,Parte 2.mp4",0,1398,1398,735.042219,0
+K1080,Tintin,"27 Los tiburones del Mar Rojo,Parte 1","P:/TVBoomerang/Series/Tintin/27 Los tiburones del Mar Rojo,Parte 1.mp4",0,1398,1398,755.146716,0
+K1081,Tintin,"28 Los tiburones del Mar Rojo,Parte 2","P:/TVBoomerang/Series/Tintin/28 Los tiburones del Mar Rojo,Parte 2.mp4",0,1398,1398,754.645139,0
+K1082,Tintin,"29 Las Siete Bolas de Cristal,Parte 1","P:/TVBoomerang/Series/Tintin/29 Las Siete Bolas de Cristal,Parte 1.mp4",0,1398,1398,747.038227,0
+K1083,Tintin,"30 Las Siete Bolas de Cristal,Parte 2","P:/TVBoomerang/Series/Tintin/30 Las Siete Bolas de Cristal,Parte 2.mp4",0,1399,1399,801.165805,0
+K1084,Tintin,"31 El Templo del Sol,Parte 1","P:/TVBoomerang/Series/Tintin/31 El Templo del Sol,Parte 1.mp4",0,1399,1399,704.473249,0
+K1085,Tintin,"32 El Templo del Sol,Parte 2","P:/TVBoomerang/Series/Tintin/32 El Templo del Sol,Parte 2.mp4",0,1399,1399,723.613595,0
+K1086,Tintin,"33 Las joyas de Castafiore,Parte 1","P:/TVBoomerang/Series/Tintin/33 Las joyas de Castafiore,Parte 1.mp4",0,1398,1398,673.545239,0
+K1087,Tintin,"34 Las Joyas de Castiafore,Parte 2","P:/TVBoomerang/Series/Tintin/34 Las Joyas de Castiafore,Parte 2.mp4",0,1399,1399,662.694601,0
+K1088,Tintin,"35 Destino La Luna,Parte 1","P:/TVBoomerang/Series/Tintin/35 Destino La Luna,Parte 1.mp4",0,1398,1398,747.236568,0
+K1089,Tintin,"36 Destino La Luna,Parte 2","P:/TVBoomerang/Series/Tintin/36 Destino La Luna,Parte 2.mp4",0,1398,1398,781.884454,0
+K1090,Tintin,"37 Aterrizaje en la Luna,Parte 1","P:/TVBoomerang/Series/Tintin/37 Aterrizaje en la Luna,Parte 1.mp4",0,1397,1397,696.059416,0
+K1091,Tintin,"38 Aterrizaje en la Luna,Parte 2","P:/TVBoomerang/Series/Tintin/38 Aterrizaje en la Luna,Parte 2.mp4",0,1398,1398,698.891988,0
 K1092,Tintin,39 Tintin En America,P:/TVBoomerang/Series/Tintin/39 Tintin En America.mp4,0,1392,1392,696.831659,0,N,1
 K1093,Tiny Toons,01 El comienzo de Tiny Toons1,P:/TVBoomerang/Series/Tiny Toons/01 El comienzo de Tiny Toons1.mp4,0,1387,1387,512.739513,953.101856,N,1
 K1094,Tiny Toons,02 Un pato en dos patos,P:/TVBoomerang/Series/Tiny Toons/02 Un pato en dos patos.mp4,0,1308,1308,434.065147,784.41184,N,1
@@ -1193,7 +1193,7 @@ K1191,Un cachorro llamado Scooby Doo,01 El misterio de la bicicleta robada,P:/TV
 K1192,Un cachorro llamado Scooby Doo,02 El misterio del monstruo del centro de la Tierra,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/02 El misterio del monstruo del centro de la Tierra.mp4,0,1346,1346,730.638578,0,N,1
 K1193,Un cachorro llamado Scooby Doo,03 El misterio del monstruo de queso,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/03 El misterio del monstruo de queso.mp4,0,1350,1350,694.632276,0,N,1
 K1194,Un cachorro llamado Scooby Doo,04 Un monstruo se ha llevado mi historieta,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/04 Un monstruo se ha llevado mi historieta.mp4,0,1361,1361,665.938382,0,N,1
-K1195,Un cachorro llamado Scooby Doo,"05 Palabras cortas, premios grandes","P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/05 Palabras cortas, premios grandes.mp4",0,1356,1356,757.436461,0,N,1
+K1195,Un cachorro llamado Scooby Doo,"05 Palabras cortas,premios grandes","P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/05 Palabras cortas,premios grandes.mp4",0,1356,1356,757.436461,0
 K1196,Un cachorro llamado Scooby Doo,06 La niñera del mas alla,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/06 La niñera del mas alla.mp4,0,1349,1349,722.024884,0,N,1
 K1197,Un cachorro llamado Scooby Doo,07 Un misterio muy frio,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/07 Un misterio muy frio.mp4,0,1354,1354,706.213105,0,N,1
 K1198,Un cachorro llamado Scooby Doo,08 El fantasma del museo,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/08 El fantasma del museo.mp4,0,1354,1354,719.915984,0,N,1
@@ -1214,13 +1214,13 @@ K1212,Un cachorro llamado Scooby Doo,22 Las travesuras del molusco andarin,P:/TV
 K1213,Un cachorro llamado Scooby Doo,23 Los locos de la lucha libre,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/23 Los locos de la lucha libre.mp4,0,1369,1369,737.835359,0,N,1
 K1214,Un cachorro llamado Scooby Doo,24 El horror de la peluca embrujada,P:/TVBoomerang/Series/Un cachorro llamado Scooby Doo/24 El horror de la peluca embrujada.mp4,0,1362,1362,731.055076,0,N,1
 K1215,Winnie Pooh,01 Pooh Oughta Be in Pictures,P:/TVBoomerang/Series/Winnie Pooh/01 Pooh Oughta Be in Pictures.mp4,0,1355,1355,538.481012,0,N,1
-K1216,Winnie Pooh,"02 Friend, In Deed - Donkey for a Day","P:/TVBoomerang/Series/Winnie Pooh/02 Friend, In Deed - Donkey for a Day.mp4",0,1364,1364,697.084303,0,N,1
+K1216,Winnie Pooh,"02 Friend,In Deed - Donkey for a Day","P:/TVBoomerang/Series/Winnie Pooh/02 Friend,In Deed - Donkey for a Day.mp4",0,1364,1364,697.084303,0
 K1217,Winnie Pooh,03 Theres No Camp Like Home - Balloonatics,P:/TVBoomerang/Series/Winnie Pooh/03 Theres No Camp Like Home - Balloonatics.mp4,0,1361,1361,693.490557,0,N,1
-K1218,Winnie Pooh,"04 Find Her, Keep Her","P:/TVBoomerang/Series/Winnie Pooh/04 Find Her, Keep Her.mp4",0,1353,1353,782.738105,0,N,1
+K1218,Winnie Pooh,"04 Find Her,Keep Her","P:/TVBoomerang/Series/Winnie Pooh/04 Find Her,Keep Her.mp4",0,1353,1353,782.738105,0
 K1219,Winnie Pooh,05 The Piglet Who Would Be King,P:/TVBoomerang/Series/Winnie Pooh/05 The Piglet Who Would Be King.mp4,0,1351,1351,765.158317,0,N,1
 K1220,Winnie Pooh,06 Cleanliness is Next to Impossible,P:/TVBoomerang/Series/Winnie Pooh/06 Cleanliness is Next to Impossible.mp4,0,1359,1359,746.205051,0,N,1
 K1221,Winnie Pooh,07 The Great Honey Pot Robbery,P:/TVBoomerang/Series/Winnie Pooh/07 The Great Honey Pot Robbery.mp4,0,1366,1366,700.50503,0,N,1
-K1222,Winnie Pooh,"08 Stripes - Monkey See, Monkey Do Better","P:/TVBoomerang/Series/Winnie Pooh/08 Stripes - Monkey See, Monkey Do Better.mp4",0,1362,1362,695.555694,0,N,1
+K1222,Winnie Pooh,"08 Stripes - Monkey See,Monkey Do Better","P:/TVBoomerang/Series/Winnie Pooh/08 Stripes - Monkey See,Monkey Do Better.mp4",0,1362,1362,695.555694,0
 K1223,Winnie Pooh,09 Babysitter Blues,P:/TVBoomerang/Series/Winnie Pooh/09 Babysitter Blues.mp4,0,1358,1358,679.822264,0,N,1
 K1224,Winnie Pooh,10 How Much is That Rabbit in the Window,P:/TVBoomerang/Series/Winnie Pooh/10 How Much is That Rabbit in the Window.mp4,0,1362,1362,695.361359,0,N,1
 K1225,Winnie Pooh,11 Gone with the Wind - Nothing But the Tooth,P:/TVBoomerang/Series/Winnie Pooh/11 Gone with the Wind - Nothing But the Tooth.mp4,0,1358,1358,624.331829,0,N,1
@@ -1231,27 +1231,27 @@ K1229,Winnie Pooh,15 Luck Amok - Magic Earmuffs,P:/TVBoomerang/Series/Winnie Poo
 K1230,Winnie Pooh,16 The Wishing Bear,P:/TVBoomerang/Series/Winnie Pooh/16 The Wishing Bear.mp4,0,1397,1397,698.563107,0,N,1
 K1231,Winnie Pooh,17 King of the Beasties - The Rats Who Came to Dinner,P:/TVBoomerang/Series/Winnie Pooh/17 King of the Beasties - The Rats Who Came to Dinner.mp4,0,1397,1397,696.378657,0,N,1
 K1232,Winnie Pooh,18 My Hero - Owl Feathers,P:/TVBoomerang/Series/Winnie Pooh/18 My Hero - Owl Feathers.mp4,0,1396,1396,698.954434,0,N,1
-K1233,Winnie Pooh,"19 A Very, Very Large Animal - Fish Out of Water","P:/TVBoomerang/Series/Winnie Pooh/19 A Very, Very Large Animal - Fish Out of Water.mp4",0,1399,1399,700.723998,0,N,1
+K1233,Winnie Pooh,"19 A Very,Very Large Animal - Fish Out of Water","P:/TVBoomerang/Series/Winnie Pooh/19 A Very,Very Large Animal - Fish Out of Water.mp4",0,1399,1399,700.723998,0
 K1234,Winnie Pooh,20 Tiggers Shoes - Lights Out,P:/TVBoomerang/Series/Winnie Pooh/20 Tiggers Shoes - Lights Out.mp4,0,1399,1399,700.59956,0,N,1
-K1235,Winnie Pooh,"21 The New Eeyore - Tigger, Private Ear","P:/TVBoomerang/Series/Winnie Pooh/21 The New Eeyore - Tigger, Private Ear.mp4",0,1395,1395,697.518585,0,N,1
+K1235,Winnie Pooh,"21 The New Eeyore - Tigger,Private Ear","P:/TVBoomerang/Series/Winnie Pooh/21 The New Eeyore - Tigger,Private Ear.mp4",0,1395,1395,697.518585,0
 K1236,Winnie Pooh,22 Party Poohper - The Old Switcheroo,P:/TVBoomerang/Series/Winnie Pooh/22 Party Poohper - The Old Switcheroo.mp4,0,1400,1400,698.565637,0,N,1
 K1237,Winnie Pooh,23 Me and My Shadow - To Catch a Hiccup,P:/TVBoomerang/Series/Winnie Pooh/23 Me and My Shadow - To Catch a Hiccup.mp4,0,1393,1393,695.85596,0,N,1
-K1238,Winnie Pooh,"24 Rabbit Marks the Spot - Good-bye, Mr. Pooh","P:/TVBoomerang/Series/Winnie Pooh/24 Rabbit Marks the Spot - Good-bye, Mr. Pooh.mp4",0,1398,1398,696.994634,0,N,1
+K1238,Winnie Pooh,"24 Rabbit Marks the Spot - Good-bye,Mr. Pooh","P:/TVBoomerang/Series/Winnie Pooh/24 Rabbit Marks the Spot - Good-bye,Mr. Pooh.mp4",0,1398,1398,696.994634,0
 K1239,Winnie Pooh,25 Bubble Trouble - Ground Piglet Day,P:/TVBoomerang/Series/Winnie Pooh/25 Bubble Trouble - Ground Piglet Day.mp4,0,1392,1392,695.611079,0,N,1
 K1240,Winnie Pooh,26 Alls Well That Ends Wishing Well,P:/TVBoomerang/Series/Winnie Pooh/26 Alls Well That Ends Wishing Well.mp4,0,1383,1383,718.425284,0,N,1
 K1241,Winnie Pooh,27 Un-Valentines Day,P:/TVBoomerang/Series/Winnie Pooh/27 Un-Valentines Day.mp4,0,1379,1379,693.281555,0,N,1
 K1242,Winnie Pooh,28 No Rabbits a Fortress - The Monster Frankenpooh,P:/TVBoomerang/Series/Winnie Pooh/28 No Rabbits a Fortress - The Monster Frankenpooh.mp4,0,1385,1385,761.537308,0,N,1
-K1243,Winnie Pooh,"29 Where Oh Where Has My Piglet Gone - Up, Up and Awry","P:/TVBoomerang/Series/Winnie Pooh/29 Where Oh Where Has My Piglet Gone - Up, Up and Awry.mp4",0,1384,1384,694.541044,0,N,1
+K1243,Winnie Pooh,"29 Where Oh Where Has My Piglet Gone - Up,Up and Awry","P:/TVBoomerang/Series/Winnie Pooh/29 Where Oh Where Has My Piglet Gone - Up,Up and Awry.mp4",0,1384,1384,694.541044,0
 K1244,Winnie Pooh,30 Eeyores Tail Tale - Three Little Piglets,P:/TVBoomerang/Series/Winnie Pooh/30 Eeyores Tail Tale - Three Little Piglets.mp4,0,1389,1389,690.198978,0,N,1
 K1245,Winnie Pooh,31 Prize Piglet - Fast Friends,P:/TVBoomerang/Series/Winnie Pooh/31 Prize Piglet - Fast Friends.mp4,0,1388,1388,695.914646,0,N,1
 K1246,Winnie Pooh,32 Pooh Moon - Caws and Effect,P:/TVBoomerang/Series/Winnie Pooh/32 Pooh Moon - Caws and Effect.mp4,0,1391,1391,698.418054,0,N,1
-K1247,Winnie Pooh,"33 Oh, Bottle - Owl in the Family","P:/TVBoomerang/Series/Winnie Pooh/33 Oh, Bottle - Owl in the Family.mp4",0,1361,1361,696.619672,0,N,1
+K1247,Winnie Pooh,"33 Oh,Bottle - Owl in the Family","P:/TVBoomerang/Series/Winnie Pooh/33 Oh,Bottle - Owl in the Family.mp4",0,1361,1361,696.619672,0
 K1248,Winnie Pooh,34 Sham Pooh - Rock-a-Bye Pooh Bear,P:/TVBoomerang/Series/Winnie Pooh/34 Sham Pooh - Rock-a-Bye Pooh Bear.mp4,0,1362,1362,687.597073,0,N,1
-K1249,Winnie Pooh,"35 Whats the Score, Pooh - Tiggers Houseguest","P:/TVBoomerang/Series/Winnie Pooh/35 Whats the Score, Pooh - Tiggers Houseguest.mp4",0,1361,1361,693.37,0,N,1
+K1249,Winnie Pooh,"35 Whats the Score,Pooh - Tiggers Houseguest","P:/TVBoomerang/Series/Winnie Pooh/35 Whats the Score,Pooh - Tiggers Houseguest.mp4",0,1361,1361,693.37,0
 K1250,Winnie Pooh,36 Pooh Skies,P:/TVBoomerang/Series/Winnie Pooh/36 Pooh Skies.mp4,0,1358,1358,714.02827,0,N,1
 K1251,Winnie Pooh,37 A Knight to Remember,P:/TVBoomerang/Series/Winnie Pooh/37 A Knight to Remember.mp4,0,1357,1357,652.772783,0,N,1
 K1252,Winnie Pooh,38 Piglets Poohetry,P:/TVBoomerang/Series/Winnie Pooh/38 Piglets Poohetry.mp4,0,1358,1358,694.108315,0,N,1
-K1253,Winnie Pooh,"39 Shovel, Shovel, Toil and Trouble - The Wise Have It","P:/TVBoomerang/Series/Winnie Pooh/39 Shovel, Shovel, Toil and Trouble - The Wise Have It.mp4",0,1358,1358,668.181062,0,N,1
+K1253,Winnie Pooh,"39 Shovel,Shovel,Toil and Trouble - The Wise Have It","P:/TVBoomerang/Series/Winnie Pooh/39 Shovel,Shovel,Toil and Trouble - The Wise Have It.mp4",0,1358,1358
 K1254,Winnie Pooh,40 Rabbit Takes a Holiday - Eeyi Eeyore,P:/TVBoomerang/Series/Winnie Pooh/40 Rabbit Takes a Holiday - Eeyi Eeyore.mp4,0,1362,1362,694.971367,0,N,1
 K1255,Winnie Pooh,41 To Bee or Not to Bee - April Pooh,P:/TVBoomerang/Series/Winnie Pooh/41 To Bee or Not to Bee - April Pooh.mp4,0,1363,1363,696.665152,0,N,1
 K1256,Winnie Pooh,42 Tigger is the Mother of Invention - The Bug Stops Here,P:/TVBoomerang/Series/Winnie Pooh/42 Tigger is the Mother of Invention - The Bug Stops Here.mp4,0,1359,1359,694.920047,0,N,1
@@ -1309,14 +1309,14 @@ K1307,Ranma,022 Una competencia muy accidentada,P:/TVBoomerang/Series/Ranma/022 
 K1308,Ranma,023 En verdad no te gustan los gatos,P:/TVBoomerang/Series/Ranma/023 En verdad no te gustan los gatos.mp4,0,1479,1479,493,986,N,1
 K1309,Ranma,024 La abuela de Shampoo,P:/TVBoomerang/Series/Ranma/024 La abuela de Shampoo.mp4,0,1480,1480,493.33,986.66,N,1
 K1310,Ranma,025 Ahi esta El legendario truco de las castanas,P:/TVBoomerang/Series/Ranma/025 Ahi esta El legendario truco de las castanas.mp4,0,1479,1479,493,986,N,1
-K1311,Ranma,"026 Mousse, el hombre con el truco del cisne","P:/TVBoomerang/Series/Ranma/026 Mousse, el hombre con el truco del cisne.mp4",0,1479,1479,493,986,N,1
+K1311,Ranma,"026 Mousse,el hombre con el truco del cisne","P:/TVBoomerang/Series/Ranma/026 Mousse,el hombre con el truco del cisne.mp4",0,1479,1479,493,986
 K1312,Ranma,027 La bola Fenix,P:/TVBoomerang/Series/Ranma/027 La bola Fenix.mp4,0,1362,1362,454,908,N,1
 K1313,Ranma,028 Un reto para dos,P:/TVBoomerang/Series/Ranma/028 Un reto para dos.mp4,0,1394,1394,464.67,929.34,N,1
 K1314,Ranma,029 El terrible entrenamiento en la montana,P:/TVBoomerang/Series/Ranma/029 El terrible entrenamiento en la montana.mp4,0,1393,1393,464.33,928.66,N,1
 K1315,Ranma,030 La venganza de Ryoga,P:/TVBoomerang/Series/Ranma/030 La venganza de Ryoga.mp4,0,1394,1394,464.67,929.34,N,1
 K1316,Ranma,031 Secuestran a Akane,P:/TVBoomerang/Series/Ranma/031 Secuestran a Akane.mp4,0,1394,1394,464.67,929.34,N,1
 K1317,Ranma,032 Ranma contra Mousse Perder para ganar,P:/TVBoomerang/Series/Ranma/032 Ranma contra Mousse Perder para ganar.mp4,0,1480,1480,493.33,986.66,N,1
-K1318,Ranma,"033 Happosai, el monstruo lujurioso","P:/TVBoomerang/Series/Ranma/033 Happosai, el monstruo lujurioso.mp4",0,1479,1479,493,986,N,1
+K1318,Ranma,"033 Happosai,el monstruo lujurioso","P:/TVBoomerang/Series/Ranma/033 Happosai,el monstruo lujurioso.mp4",0,1479,1479,493,986
 K1319,Ranma,034 Ataque al vestidor de mujeres,P:/TVBoomerang/Series/Ranma/034 Ataque al vestidor de mujeres.mp4,0,1479,1479,493,986,N,1
 K1320,Ranma,035 La mansion del terror,P:/TVBoomerang/Series/Ranma/035 La mansion del terror.mp4,0,1479,1479,493,986,N,1
 K1321,Ranma,036 Adios a la chica,P:/TVBoomerang/Series/Ranma/036 Adios a la chica.mp4,0,1480,1480,493.33,986.66,N,1
@@ -1341,7 +1341,7 @@ K1339,Ranma,054 La decision de Ryoga,P:/TVBoomerang/Series/Ranma/054 La decision
 K1340,Ranma,055 Recordando a Happosai,P:/TVBoomerang/Series/Ranma/055 Recordando a Happosai.mp4,0,1392,1392,464,928,N,1
 K1341,Ranma,056 Kodachi y su gran amor,P:/TVBoomerang/Series/Ranma/056 Kodachi y su gran amor.mp4,0,1392,1392,464,928,N,1
 K1342,Ranma,057 Los ultimos dias de Happosai,P:/TVBoomerang/Series/Ranma/057 Los ultimos dias de Happosai.mp4,0,1393,1393,464.33,928.66,N,1
-K1343,Ranma,"058 Rin-Rin, Ran-Ran, Vaya chicas","P:/TVBoomerang/Series/Ranma/058 Rin-Rin, Ran-Ran, Vaya chicas.mp4",0,1393,1393,464.33,928.66,N,1
+K1343,Ranma,"058 Rin-Rin,Ran-Ran,Vaya chicas","P:/TVBoomerang/Series/Ranma/058 Rin-Rin,Ran-Ran,Vaya chicas.mp4",0,1393,1393
 K1344,Ranma,059 El espiritu diabolico viene por Ranma,P:/TVBoomerang/Series/Ranma/059 El espiritu diabolico viene por Ranma.mp4,0,1393,1393,464.33,928.66,N,1
 K1345,Ranma,060 El truco del camaleon,P:/TVBoomerang/Series/Ranma/060 El truco del camaleon.mp4,0,1395,1395,465,930,N,1
 K1346,Ranma,061 Un cambio en el cuerpo de Ryoga,P:/TVBoomerang/Series/Ranma/061 Un cambio en el cuerpo de Ryoga.mp4,0,1393,1393,464.33,928.66,N,1
@@ -1427,7 +1427,7 @@ K1425,Ranma,140 Happosai y sus demonios,P:/TVBoomerang/Series/Ranma/140 Happosai
 K1426,Ranma,141 Un nuevo truco,P:/TVBoomerang/Series/Ranma/141 Un nuevo truco.mp4,0,1395,1395,465,930,N,1
 K1427,Ranma,142 La tecnica depende del humor,P:/TVBoomerang/Series/Ranma/142 La tecnica depende del humor.mp4,0,1395,1395,465,930,N,1
 K1428,Ranma,143 Shampoo besa cuando la atacan,P:/TVBoomerang/Series/Ranma/143 Shampoo besa cuando la atacan.mp4,0,1397,1397,465.67,931.34,N,1
-K1429,Ranma,"144 Por favor, fugate conmigo","P:/TVBoomerang/Series/Ranma/144 Por favor, fugate conmigo.mp4",0,1397,1397,465.67,931.34,N,1
+K1429,Ranma,"144 Por favor,fugate conmigo","P:/TVBoomerang/Series/Ranma/144 Por favor,fugate conmigo.mp4",0,1397,1397,465.67,931.34
 K1430,Ranma,145 Vamos al templo de los hongos,P:/TVBoomerang/Series/Ranma/145 Vamos al templo de los hongos.mp4,0,1397,1397,465.67,931.34,N,1
 K1431,Ranma,146 La cuna del Infierno,P:/TVBoomerang/Series/Ranma/146 La cuna del Infierno.mp4,0,1396,1396,465.33,930.66,N,1
 K1432,Ranma,147 Picolette es un vampiro,P:/TVBoomerang/Series/Ranma/147 Picolette es un vampiro.mp4,0,1397,1397,465.67,931.34,N,1
@@ -1444,4 +1444,4 @@ K1442,Ranma,157 Explosion,P:/TVBoomerang/Series/Ranma/157 Explosion.mp4,0,1395,1
 K1443,Ranma,158 Blanquinegro,P:/TVBoomerang/Series/Ranma/158 Blanquinegro.mp4,0,1395,1395,465,930,N,1
 K1444,Ranma,159 La leyenda del dragon,P:/TVBoomerang/Series/Ranma/159 La leyenda del dragon.mp4,0,1395,1395,465,930,N,1
 K1445,Ranma,160 Ranma conoce a su mama,P:/TVBoomerang/Series/Ranma/160 Ranma conoce a su mama.mp4,0,1396,1396,465.33,930.66,N,1
-K1446,Ranma,"161 Quiza, algun dia...","P:/TVBoomerang/Series/Ranma/161 Quiza, algun dia....mp4",0,1395,1395,465,930,N,1
+K1446,Ranma,"161 Quiza,algun dia...","P:/TVBoomerang/Series/Ranma/161 Quiza,algun dia....mp4",0,1395,1395,465,930
