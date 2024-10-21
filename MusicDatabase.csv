@@ -1,30 +1,41 @@
-Artist,Album,Song,TrackNumber,Duration,Year
-Mike & the Mechanics,Let Me Fly,Let Me Fly,1,04:44,2006
-Mike & the Mechanics,Let Me Fly,Are You Ready,2,04:27,2006
-Mike & the Mechanics,Let Me Fly,Wonder,3,04:36,2006
-Mike & the Mechanics,Let Me Fly,The Best Is Yet To Come,4,03:58,2006
-Mike & the Mechanics,Let Me Fly,Save The World,5,04:42,2006
-Mike & the Mechanics,Let Me Fly,Don't Know What Came Over Me,6,04:20,2006
-Mike & the Mechanics,Let Me Fly,High Life,7,02:49,2006
-Mike & the Mechanics,Let Me Fly,The Letter,8,04:55,2006
-Mike & the Mechanics,Let Me Fly,Not Out Of Love,9,04:18,2006
-Mike & the Mechanics,Let Me Fly,Love Left Over,10,03:27,2006
-Mike & the Mechanics,Let Me Fly,I'll Be There For You,11,03:31,2006
-Mike & the Mechanics,Let Me Fly,Save My Soul,12,04:49,2006
-Mike & the Mechanics,Out of the Blue,Out of the Blue,1,03:38,2019
-Mike & the Mechanics,Out of the Blue,One Way,2,04:00,2019
-Mike & the Mechanics,Out of the Blue,What Would You Do,3,03:06,2019
-Mike & the Mechanics,Out of the Blue,The Living Years (2019 Version),4,06:24,2019
-Mike & the Mechanics,Out of the Blue,Beggar on a Beach of Gold (2019 Version),5,04:09,2019
-Mike & the Mechanics,Out of the Blue,Get Up (2019 Version),6,04:20,2019
-Mike & the Mechanics,Out of the Blue,Another Cup of Coffee (2019 Version),7,04:25,2019
-Mike & the Mechanics,Out of the Blue,All I Need Is a Miracle (2019 Version),8,06:38,2019
-Mike & the Mechanics,Out of the Blue,Silent Running (2019 Version),9,04:56,2019
-Mike & the Mechanics,Out of the Blue,Over My Shoulder (2019 Version),10,04:56,2019
-Mike & the Mechanics,Out of the Blue,Word of Mouth (2019 Version),11,04:03,2019
-Mike & the Mechanics,Out of the Blue,Don't Know What Came Over Me (Acoustic),12,03:59,2019
-Mike & the Mechanics,Out of the Blue,The Best Is Yet to Come (Acoustic),13,04:19,2019
-Mike & the Mechanics,Out of the Blue,The Living Years (Acoustic),14,05:32,2019
-Mike & the Mechanics,Out of the Blue,Beggar on a Beach of Gold (Acoustic),15,03:54,2019
-Mike & the Mechanics,Out of the Blue,Another Cup of Coffee (Acoustic),16,04:39,2019
-Mike & the Mechanics,Out of the Blue,Over My Shoulder (Acoustic),17,03:45,2019
+Artist,Album,Song,TrackNumber,Duration,Year,Url
+Mike & the Mechanics,Let Me Fly,Let Me Fly,1,04:44,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Let Me Fly.mp3
+Mike & the Mechanics,Let Me Fly,Are You Ready,2,04:27,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Are You Ready.mp3
+Mike & the Mechanics,Let Me Fly,Wonder,3,04:36,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Wonder.mp3
+Mike & the Mechanics,Let Me Fly,The Best Is Yet To Come,4,03:58,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/The Best Is Yet To Come.mp3
+Mike & the Mechanics,Let Me Fly,Save The World,5,04:42,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Save The World.mp3
+Mike & the Mechanics,Let Me Fly,Don't Know What Came Over Me,6,04:20,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Don't Know What Came Over Me.mp3
+Mike & the Mechanics,Let Me Fly,High Life,7,02:49,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/High Life.mp3
+Mike & the Mechanics,Let Me Fly,The Letter,8,04:55,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/The Letter.mp3
+Mike & the Mechanics,Let Me Fly,Not Out Of Love,9,04:18,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Not Out Of Love.mp3
+Mike & the Mechanics,Let Me Fly,Love Left Over,10,03:27,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Love Left Over.mp3
+Mike & the Mechanics,Let Me Fly,I'll Be There For You,11,03:31,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/I'll Be There For You.mp3
+Mike & the Mechanics,Let Me Fly,Save My Soul,12,04:49,2006,P:/TvBoomerang/Music/Mike & the Mechanics/Let Me Fly/Save My Soul.mp3
+Mike & the Mechanics,The Road,The Road,1,04:21,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/The Road.mp3
+Mike & the Mechanics,The Road,Reach Out (Touch The Sun),2,04:03,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Reach Out (Touch The Sun).mp3
+Mike & the Mechanics,The Road,Try To Save Me,3,03:48,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Try To Save Me.mp3
+Mike & the Mechanics,The Road,Background Noise,4,04:17,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Background Noise.mp3
+Mike & the Mechanics,The Road,I Don't Do Love,5,04:37,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/I Don't Do Love.mp3
+Mike & the Mechanics,The Road,Heaven Doesn't Care,6,03:39,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Heaven Doesn't Care.mp3
+Mike & the Mechanics,The Road,It Only Hurts For A While,7,04:11,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/It Only Hurts For A While.mp3
+Mike & the Mechanics,The Road,Walking On Water,8,03:43,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Walking On Water.mp3
+Mike & the Mechanics,The Road,Hunt You Down,9,03:46,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Hunt You Down.mp3
+Mike & the Mechanics,The Road,Oh No,10,04:18,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/Oh No.mp3
+Mike & the Mechanics,The Road,You Can Be The Rock,11,05:17,2011,P:/TvBoomerang/Music/Mike & the Mechanics/The Road/You Can Be The Rock.mp3
+Mike & the Mechanics,Out of the Blue,Out of the Blue,1,03:38,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Out of the Blue.mp3
+Mike & the Mechanics,Out of the Blue,One Way,2,04:00,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/One Way.mp3
+Mike & the Mechanics,Out of the Blue,What Would You Do,3,03:06,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/What Would You Do.mp3
+Mike & the Mechanics,Out of the Blue,The Living Years (2019 Version),4,06:24,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/The Living Years (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Beggar on a Beach of Gold (2019 Version),5,04:09,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Beggar on a Beach of Gold (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Get Up (2019 Version),6,04:20,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Get Up (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Another Cup of Coffee (2019 Version),7,04:25,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Another Cup of Coffee (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,All I Need Is a Miracle (2019 Version),8,06:38,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/All I Need Is a Miracle (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Silent Running (2019 Version),9,04:56,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Silent Running (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Over My Shoulder (2019 Version),10,04:56,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Over My Shoulder (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Word of Mouth (2019 Version),11,04:03,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Word of Mouth (2019 Version).mp3
+Mike & the Mechanics,Out of the Blue,Don't Know What Came Over Me (Acoustic),12,03:59,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Don't Know What Came Over Me (Acoustic).mp3
+Mike & the Mechanics,Out of the Blue,The Best Is Yet to Come (Acoustic),13,04:19,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/The Best Is Yet to Come (Acoustic).mp3
+Mike & the Mechanics,Out of the Blue,The Living Years (Acoustic),14,05:32,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/The Living Years (Acoustic).mp3
+Mike & the Mechanics,Out of the Blue,Beggar on a Beach of Gold (Acoustic),15,03:54,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Beggar on a Beach of Gold (Acoustic).mp3
+Mike & the Mechanics,Out of the Blue,Another Cup of Coffee (Acoustic),16,04:39,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Another Cup of Coffee (Acoustic).mp3
+Mike & the Mechanics,Out of the Blue,Over My Shoulder (Acoustic),17,03:45,2019,P:/TvBoomerang/Music/Mike & the Mechanics/Out of the Blue/Over My Shoulder (Acoustic).mp3
