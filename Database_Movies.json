@@ -1,0 +1,376 @@
+{
+    "Cartoon Network": [
+        {
+            "Movie": "El Viaje de Dexter",
+            "Path": "El Viaje de Dexter.mp4",
+            "Year": 1999,
+            "Duration": 50,
+            "Image_Url": "El Viaje de Dexter.png"
+        },
+        {
+            "Movie": "Johnny Bravo va a Bollywood",
+            "Path": "Johnny Bravo va a Bollywood.mkv",
+            "Year": 2012,
+            "Duration": 72,
+            "Image_Url": "Johnny Bravo va a Bollywood.png"
+        },
+        {
+            "Movie": "Tiny Toon Adventures - Como pase mis vacaciones",
+            "Path": "Tiny Toon Adventures - Como pase mis vacaciones.mp4",
+            "Year": 1992,
+            "Duration": 79,
+            "Image_Url": "Tiny Toon Adventures - Como pase mis vacaciones.png"
+        }
+    ],
+    "Disney": [
+        {
+            "Movie": "El Club de los Villanos con Mickey y sus Amigos",
+            "Path": "El Club de los Villanos con Mickey y sus Amigos.mp4",
+            "Year": 2001,
+            "Duration": 70,
+            "Image_Url": "El Club de los Villanos con Mickey y sus Amigos.png"
+        },
+        {
+            "Movie": "La Navidad Magica de Mickey, Reunidos para Celebrar",
+            "Path": "La Navidad Magica de Mickey, Reunidos para Celebrar.mp4",
+            "Year": 2001,
+            "Duration": 61,
+            "Image_Url": "La Navidad Magica de Mickey, Reunidos para Celebrar.png"
+        },
+        {
+            "Movie": "Hercules",
+            "Path": "Hercules.mp4",
+            "Year": 1997,
+            "Duration": 93,
+            "Image_Url": "Hercules.png"
+        },
+        {
+            "Movie": "Alicia en el Pais de las Maravillas",
+            "Path": "Alicia en el Pais de las Maravillas.mp4",
+            "Year": 1951,
+            "Duration": 75,
+            "Image_Url": "Alicia en el Pais de las Maravillas.png"
+        },
+        {
+            "Movie": "Las Locuras del Emperador",
+            "Path": "Las Locuras del Emperador.mp4",
+            "Year": 2000,
+            "Duration": 78,
+            "Image_Url": "Las Locuras del Emperador.png"
+        },
+        {
+            "Movie": "El Rey Leon",
+            "Path": "El Rey Leon.mp4",
+            "Year": 1994,
+            "Duration": 88,
+            "Image_Url": "El Rey Leon.png"
+        },
+        {
+            "Movie": "Los Aristogatos",
+            "Path": "Los Aristogatos.mp4",
+            "Year": 1970,
+            "Duration": 78,
+            "Image_Url": "Los Aristogatos.png"
+        },
+        {
+            "Movie": "Robin Hood",
+            "Path": "Robin Hood.mp4",
+            "Year": 1973,
+            "Duration": 83,
+            "Image_Url": "Robin Hood.png"
+        },
+        {
+            "Movie": "Aladdin",
+            "Path": "Aladdin.mp4",
+            "Year": 1992,
+            "Duration": 90,
+            "Image_Url": "Aladdin.png"
+        },
+        {
+            "Movie": "La Bella y la Bestia",
+            "Path": "La Bella y la Bestia.mp4",
+            "Year": 1991,
+            "Duration": 87,
+            "Image_Url": "La Bella y la Bestia.png"
+        }
+    ],
+    "Pokemon": [
+        {
+            "Movie": "Pokemon Mewtwo Contraataca",
+            "Path": "Pokemon Mewtwo Contraataca.mp4",
+            "Year": 2000,
+            "Duration": 74,
+            "Image_Url": "Pokemon Mewtwo Contraataca.png"
+        },
+        {
+            "Movie": "Pokemon 2000 El poder de Uno",
+            "Path": "Pokemon 2000 El poder de Uno.mp4",
+            "Year": 1999,
+            "Duration": 109,
+            "Image_Url": "Pokemon 2000 El poder de Uno.png"
+        },
+        {
+            "Movie": "Pokemon 3 El Hechizo de los Unown",
+            "Path": "Pokemon 3 El Hechizo de los Unown.mp4",
+            "Year": 2000,
+            "Duration": 93,
+            "Image_Url": "Pokemon 3 El Hechizo de los Unown.png"
+        },
+        {
+            "Movie": "Pokemon 4ever Celebi la voz del Bosque",
+            "Path": "Pokemon 4ever Celebi la voz del Bosque.mp4",
+            "Year": 2001,
+            "Duration": 75,
+            "Image_Url": "Pokemon 4ever Celebi la voz del Bosque.png"
+        },
+        {
+            "Movie": "Pokemon 5 Heroes Pokemon Latios y Latias",
+            "Path": "Pokemon 5 Heroes Pokemon Latios y Latias.mp4",
+            "Year": 2002,
+            "Duration": 101,
+            "Image_Url": "Pokemon 5 Heroes Pokemon Latios y Latias.png"
+        }
+    ],
+    "Scooby Doo": [
+        {
+            "Movie": "Scooby en la Isla de los Zombies",
+            "Path": "Scooby en la Isla de los Zombies.mp4",
+            "Year": 1998,
+            "Duration": 75,
+            "Image_Url": "Scooby en la Isla de los Zombies.png"
+        },
+        {
+            "Movie": "El Fantasma de la Bruja",
+            "Path": "El Fantasma de la Bruja.mp4",
+            "Year": 1999,
+            "Duration": 66,
+            "Image_Url": "El Fantasma de la Bruja.png"
+        },
+        {
+            "Movie": "Los Invasores Aliens",
+            "Path": "Los Invasores Aliens.mp4",
+            "Year": 2000,
+            "Duration": 80,
+            "Image_Url": "Los Invasores Aliens.png"
+        },
+        {
+            "Movie": "La Persecucion Cibernetica",
+            "Path": "La Persecucion Cibernetica.mp4",
+            "Year": 2001,
+            "Duration": 75,
+            "Image_Url": "La Persecucion Cibernetica.png"
+        },
+        {
+            "Movie": "El monstruo de Mexico",
+            "Path": "El monstruo de Mexico.mkv",
+            "Year": 2003,
+            "Duration": 75,
+            "Image_Url": "El monstruo de Mexico.png"
+        },
+        {
+            "Movie": "La leyenda del vampiro",
+            "Path": "La leyenda del vampiro.mkv",
+            "Year": 2003,
+            "Duration": 72,
+            "Image_Url": "La leyenda del vampiro.png"
+        },
+        {
+            "Movie": "El monstruo del lago Ness",
+            "Path": "El monstruo del lago Ness.mkv",
+            "Year": 2004,
+            "Duration": 75,
+            "Image_Url": "El monstruo del lago Ness.png"
+        },
+        {
+            "Movie": "Aloha",
+            "Path": "Aloha.mkv",
+            "Year": 2005,
+            "Duration": 75,
+            "Image_Url": "Aloha.png"
+        },
+        {
+            "Movie": "La maldicion de Cleopatra",
+            "Path": "La maldicion de Cleopatra.mkv",
+            "Year": 2005,
+            "Duration": 75,
+            "Image_Url": "La maldicion de Cleopatra.png"
+        },
+        {
+            "Movie": "Piratas a Babor",
+            "Path": "Piratas a Babor.mkv",
+            "Year": 2006,
+            "Duration": 80,
+            "Image_Url": "Piratas a Babor.png"
+        },
+        {
+            "Movie": "El Abominable Hombre de las Nieves",
+            "Path": "El Abominable Hombre de las Nieves.mkv",
+            "Year": 2007,
+            "Duration": 90,
+            "Image_Url": "El Abominable Hombre de las Nieves.png"
+        },
+        {
+            "Movie": "El rey de los duendes",
+            "Path": "El rey de los duendes.mkv",
+            "Year": 2008,
+            "Duration": 75,
+            "Image_Url": "El rey de los duendes.png"
+        },
+        {
+            "Movie": "La espada del samurai",
+            "Path": "La espada del samurai.mkv",
+            "Year": 2009,
+            "Duration": 75,
+            "Image_Url": "La espada del samurai.png"
+        },
+        {
+            "Movie": "Abracadabra doo",
+            "Path": "Abracadabra doo.mkv",
+            "Year": 2010,
+            "Duration": 76,
+            "Image_Url": "Abracadabra doo.png"
+        },
+        {
+            "Movie": "Un verano espeluznante",
+            "Path": "Un verano espeluznante.mkv",
+            "Year": 2010,
+            "Duration": 75,
+            "Image_Url": "Un verano espeluznante.png"
+        },
+        {
+            "Movie": "La leyenda del fantasmasauro",
+            "Path": "La leyenda del fantasmasauro.mkv",
+            "Year": 2011,
+            "Duration": 75,
+            "Image_Url": "La leyenda del fantasmasauro.png"
+        },
+        {
+            "Movie": "Scooby Doo estrella del circo",
+            "Path": "Scooby Doo estrella del circo.mkv",
+            "Year": 2012,
+            "Duration": 80,
+            "Image_Url": "Scooby Doo estrella del circo.png"
+        },
+        {
+            "Movie": "Musica de vampiro",
+            "Path": "Musica de vampiro.mkv",
+            "Year": 2012,
+            "Duration": 76,
+            "Image_Url": "Musica de vampiro.png"
+        },
+        {
+            "Movie": "La mascara de fabulman",
+            "Path": "La mascara de fabulman.mkv",
+            "Year": 2012,
+            "Duration": 78,
+            "Image_Url": "La mascara de fabulman.png"
+        },
+        {
+            "Movie": "Miedo al escenario",
+            "Path": "Miedo al escenario.mkv",
+            "Year": 2013,
+            "Duration": 78,
+            "Image_Url": "Miedo al escenario.png"
+        },
+        {
+            "Movie": "El Frankenmonstruo",
+            "Path": "El Frankenmonstruo.mkv",
+            "Year": 2014,
+            "Duration": 75,
+            "Image_Url": "El Frankenmonstruo.png"
+        },
+        {
+            "Movie": "Misterio en la lucha libre",
+            "Path": "Misterio en la lucha libre.mkv",
+            "Year": 2014,
+            "Duration": 83,
+            "Image_Url": "Misterio en la lucha libre.png"
+        },
+        {
+            "Movie": "Scooby-Doo y Kiss en el Misterio del Rock and Roll",
+            "Path": "Scooby-Doo y Kiss en el Misterio del Rock and Roll.mkv",
+            "Year": 2015,
+            "Duration": 78,
+            "Image_Url": "Scooby-Doo y Kiss en el Misterio del Rock and Roll.png"
+        },
+        {
+            "Movie": "Scooby-Doo y WWE en La maldicion del demonio veloz",
+            "Path": "Scooby-Doo y WWE en La maldicion del demonio veloz.mkv",
+            "Year": 2016,
+            "Duration": 82,
+            "Image_Url": "Scooby-Doo y WWE en La maldicion del demonio veloz.png"
+        }
+    ],
+    "Variado": [
+        {
+            "Movie": "Space Jam",
+            "Path": "Space Jam.mp4",
+            "Year": 1996,
+            "Duration": 88,
+            "Image_Url": "Space Jam.png"
+        },
+        {
+            "Movie": "Un Ninja En Beverly Hills",
+            "Path": "Un Ninja En Beverly Hills.mp4",
+            "Year": 1997,
+            "Duration": 88,
+            "Image_Url": "Un Ninja En Beverly Hills.png"
+        },
+        {
+            "Movie": "George de la Selva",
+            "Path": "George de la Selva.mp4",
+            "Year": 1997,
+            "Duration": 92,
+            "Image_Url": "George de la Selva.png"
+        },
+        {
+            "Movie": "Ricky Ricon",
+            "Path": "Ricky Ricon.mp4",
+            "Year": 1994,
+            "Duration": 96,
+            "Image_Url": "Ricky Ricon.png"
+        },
+        {
+            "Movie": "Mortal Kombat",
+            "Path": "Mortal Kombat.mp4",
+            "Year": 1995,
+            "Duration": 101,
+            "Image_Url": "Mortal Kombat.png"
+        },
+        {
+            "Movie": "Mortal Kombat II",
+            "Path": "Mortal Kombat II.mp4",
+            "Year": 1997,
+            "Duration": 95,
+            "Image_Url": "Mortal Kombat II.png"
+        },
+        {
+            "Movie": "Godzilla",
+            "Path": "Godzilla.mp4",
+            "Year": 1998,
+            "Duration": 138,
+            "Image_Url": "Godzilla.png"
+        },
+        {
+            "Movie": "Ace Ventura",
+            "Path": "Ace Ventura.mp4",
+            "Year": 1994,
+            "Duration": 86,
+            "Image_Url": "Ace Ventura.png"
+        },
+        {
+            "Movie": "Ace Ventura II",
+            "Path": "Ace Ventura II.mp4",
+            "Year": 1995,
+            "Duration": 94,
+            "Image_Url": "Ace Ventura II.png"
+        },
+        {
+            "Movie": "Rocky Horror Picture Show",
+            "Path": "Rocky Horror Picture Show.mp4",
+            "Year": 1975,
+            "Duration": 100,
+            "Image_Url": "Rocky Horror Picture Show.png"
+        }
+    ]
+}
