@@ -122,6 +122,9 @@
   "series": {
     "Detective Conan": {
       "Last Episode": 0
+    },
+    "Default Series Name": {
+      "Last Episode": 8
     }
   }
 }
