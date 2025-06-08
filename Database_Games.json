@@ -1,26 +1,34 @@
 [
     {
-        "Game": "Barney's Hide & Seek Game"
+        "Game": "Barney's Hide & Seek Game",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Barney's Hide & Seek Game.md"
     },
     {
-        "Game": "Castle of Illusion"
+        "Game": "Castle of Illusion",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Castle of Illusion.md"
     },
     {
-        "Game": "Power Rangers - Mighty Morphin"
+        "Game": "Power Rangers - Mighty Morphin",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Power Rangers - Mighty Morphin.md"
     },
     {
-        "Game": "Sonic The Hedgehog 3"
+        "Game": "Sonic The Hedgehog 3",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Sonic The Hedgehog 3.md"
     },
     {
-        "Game": "The Lion King"
+        "Game": "The Lion King",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/The Lion King.md"
     },
     {
-        "Game": "The Simpsons - Bart vs. the Space Mutants"
+        "Game": "The Simpsons - Bart vs. the Space Mutants",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/The Simpsons - Bart vs. the Space Mutants.md"
     },
     {
-        "Game": "Tiny Toon Adventures - Acme All-Stars"
+        "Game": "Tiny Toon Adventures - Acme All-Stars",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Tiny Toon Adventures - Acme All-Stars.md"
     },
     {
-        "Game": "Tiny Toon Adventures - Buster's Hidden Treasure"
+        "Game": "Tiny Toon Adventures - Buster's Hidden Treasure",
+        "Path": "C:/Users/leoel/Desktop/Juegos/Sega/Roms/Tiny Toon Adventures - Buster's Hidden Treasure.md"
     }
 ]
